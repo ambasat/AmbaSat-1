@@ -1939,7 +1939,7 @@ design rules under a new name.</description>
 <attribute name="DESCRIPTION" value="8-bit Microcontroller with In-System Programmable Flash" x="11" y="27" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="13.635" y="23.5456" size="0.6096" layer="27" ratio="6" rot="SR90"/>
 </element>
-<element name="C1" library="rcl" package="C0805K" value="1uF" x="2" y="17.7" smashed="yes" rot="R270">
+<element name="C1" library="rcl" package="C0805K" value="0.1uF" x="2" y="17.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="1.4" y="19.675" size="0.8128" layer="25" font="vector" ratio="18"/>
 <attribute name="VALUE" x="0.1" y="18.7" size="1.016" layer="27" rot="R270"/>
 </element>

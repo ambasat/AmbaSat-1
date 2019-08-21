@@ -10230,7 +10230,7 @@ Source: www.kingbright.com</description>
 <part name="D1" library="led" deviceset="LED" device="CHIP-LED0805"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="M0805" value=" 1k6"/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="M0805" value=" 10k"/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C0805K" value="1uF"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C0805K" value="0.1uF"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
@@ -10279,7 +10279,8 @@ Author: Martin Platt</text>
 <instance part="R1" gate="G$1" x="12.7" y="149.86"/>
 <instance part="R2" gate="G$1" x="78.74" y="160.02"/>
 <instance part="C1" gate="G$1" x="68.58" y="91.44" smashed="yes" rot="R270">
-<attribute name="NAME" x="68.961" y="94.996" size="1.778" layer="95" font="vector"/>
+<attribute name="NAME" x="71.501" y="89.916" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="65.024" y="94.361" size="1.778" layer="96"/>
 </instance>
 <instance part="GND2" gate="1" x="17.78" y="119.38"/>
 <instance part="GND3" gate="1" x="0" y="142.24"/>
