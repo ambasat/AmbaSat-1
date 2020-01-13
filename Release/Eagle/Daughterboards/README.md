@@ -76,6 +76,10 @@ AmbaSat-1 sensors come on 'daughterboards' which you solder to the main AmbaSat-
 <p><em>*Please note: Due to COCOM restrictions, the </em><em>TESEO GPS receiver will only work on Earth</em></p>
 <!-- /wp:paragraph -->
 
+<h2>Sensor Boards</h2>
+
+<img src="https://ambasat.com/downloads/ambasat-1-sensor-range.png">
+
 <!-- wp:heading -->
 <h2>Datasheets</h2>
 <!-- /wp:heading -->
