@@ -8,6 +8,10 @@ AmbaSat-1 sensors come on 'daughterboards' which you solder to the main AmbaSat-
 <p>There are eight sensors choices available, shown in the list below. One daughterboard sensor can fit on a single AmbaSat-1 mainboard.  </p>
 <!-- /wp:paragraph -->
 
+<h2>Sensor Boards</h2>
+
+<img src="https://ambasat.com/downloads/ambasat-1-sensor-range.png">
+
 <!-- wp:paragraph -->
 <p><strong>Sensor 01:    SHT30-DIS-F2.5KS  </strong></p>
 <!-- /wp:paragraph -->
@@ -75,10 +79,6 @@ AmbaSat-1 sensors come on 'daughterboards' which you solder to the main AmbaSat-
 <!-- wp:paragraph -->
 <p><em>*Please note: Due to COCOM restrictions, the </em><em>TESEO GPS receiver will only work on Earth</em></p>
 <!-- /wp:paragraph -->
-
-<h2>Sensor Boards</h2>
-
-<img src="https://ambasat.com/downloads/ambasat-1-sensor-range.png">
 
 <!-- wp:heading -->
 <h2>Datasheets</h2>
