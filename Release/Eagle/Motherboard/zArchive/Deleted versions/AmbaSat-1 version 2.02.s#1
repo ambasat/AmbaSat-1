@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.1">
+<eagle version="9.3.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -8804,10 +8804,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <plain>
 <text x="-22.86" y="33.02" size="3.81" layer="94" ratio="10">AmbaSat-1  
 Sprite class satellite (ChipSat/Femtosatellite)</text>
-<text x="132.08" y="33.02" size="2.54" layer="94" ratio="10">© 2020 AmbaSat Ltd
-Authors: John Mowbray, 
-Martin Platt, Sudu Malli
-Web: ambasat.com</text>
+<text x="132.08" y="33.02" size="3.048" layer="94" ratio="10">© 2019 AmbaSat Ltd
+
+Authors: John M &amp; Martin P</text>
 </plain>
 <instances>
 <instance part="ATMEGA328P-AU" gate="A" x="45.72" y="152.4" smashed="yes"/>

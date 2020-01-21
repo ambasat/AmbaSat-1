@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.1">
+<eagle version="7.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
-<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.2" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.2" altunitdist="mm" altunit="mm"/>
@@ -223,14 +222,14 @@ Satellite</text>
 <text x="17.904" y="28.241" size="0.8128" layer="22" font="vector" ratio="16" rot="MR90">MISO</text>
 <text x="15.964" y="29.203" size="0.8128" layer="22" font="vector" ratio="16" rot="MR90">SCK</text>
 <text x="26.6" y="2" size="0.6096" layer="21" font="vector" ratio="16" rot="R180">RFM95</text>
-<text x="5.6" y="28.1" size="0.8128" layer="21" font="vector" ratio="18" rot="SR270">ATMEGA
+<text x="8" y="28.7" size="0.8128" layer="21" font="vector" ratio="18" rot="R180">ATMEGA
 328</text>
 <hole x="7" y="3" drill="3"/>
 <dimension x1="33.59" y1="33" x2="35" y2="33" x3="34.295" y3="37.1" textsize="1.778" layer="47"/>
 <dimension x1="33.59" y1="33" x2="33" y2="35" x3="45.8" y3="34" textsize="1.778" layer="47" dtype="vertical"/>
 <dimension x1="2" y1="1.65" x2="0" y2="0" x3="1" y3="-7.8486" textsize="1.778" layer="47" dtype="horizontal"/>
 <dimension x1="2" y1="1.65" x2="0" y2="0" x3="-15.1892" y3="0.825" textsize="1.778" layer="47" dtype="vertical"/>
-<text x="17" y="9" size="1.2" layer="21" font="vector" ratio="16">2.02-NSA-2020
+<text x="17" y="9" size="1.2" layer="21" font="vector" ratio="16">2.02-NSA-2019
 ambasat.com</text>
 </plain>
 <libraries>
@@ -2013,14 +2012,10 @@ design rules under a new name.</description>
 <param name="slThermalsForVias" value="0"/>
 <param name="dpMaxLengthDifference" value="10mm"/>
 <param name="dpGapFactor" value="2.5"/>
+<param name="checkGrid" value="0"/>
 <param name="checkAngle" value="0"/>
 <param name="checkFont" value="1"/>
 <param name="checkRestrict" value="0"/>
-<param name="checkStop" value="0"/>
-<param name="checkValues" value="0"/>
-<param name="checkNames" value="1"/>
-<param name="checkWireStubs" value="1"/>
-<param name="checkPolygonWidth" value="0"/>
 <param name="useDiameter" value="13"/>
 <param name="maxErrors" value="50"/>
 </designrules>
@@ -2883,13 +2878,6 @@ design rules under a new name.</description>
 <wire x1="15.7" y1="15.4" x2="17.5225" y2="15.4" width="0.254" layer="1"/>
 </signal>
 </signals>
-<mfgpreviewcolors>
-<mfgpreviewcolor name="soldermaskcolor" color="0xC8008000"/>
-<mfgpreviewcolor name="silkscreencolor" color="0xFFFEFEFE"/>
-<mfgpreviewcolor name="backgroundcolor" color="0xFF282828"/>
-<mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
-<mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
-</mfgpreviewcolors>
 </board>
 </drawing>
 <compatibility>
