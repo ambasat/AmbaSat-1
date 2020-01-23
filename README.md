@@ -1,5 +1,7 @@
 # AmbaSat-1
- 
+
+<img src="https://ambasat.com/wp-content/uploads/2019/04/ambasat-1-pcb-with-components-cropped-1024x693.jpg">
+
 AmbaSat-1 is tiny spacecraft kit that you assemble and code yourself.
 
 Once your satellite kit is assembled and programmed, it will be launched onboard a commercial rocket which will deploy your satellite into Low Earth Orbit, where it will spend up to 3 months in space.
