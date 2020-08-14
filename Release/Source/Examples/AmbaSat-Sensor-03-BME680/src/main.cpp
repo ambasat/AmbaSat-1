@@ -35,6 +35,7 @@
 #include "Adafruit_BME680.h"
 
 #define SEALEVELPRESSURE_HPA (1013.25)
+#define BME680_DEFAULT_ADDRESS_AMBASAT  (0x76)     ///< AmbaSat BME680 address
 
 Adafruit_BME680 bme; // I2C
 
@@ -45,7 +46,7 @@ void setup()
     while (!Serial);
     Serial.println(F("BME680 async test"));
 
-    if (!bme.begin()) 
+    if (!bme.begin(BME680_DEFAULT_ADDRESS_AMBASAT)) 
     {
         Serial.println(F("Could not find a valid BME680 sensor, check wiring"));
         while (1);
