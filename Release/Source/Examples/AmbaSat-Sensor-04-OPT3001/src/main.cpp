@@ -21,7 +21,7 @@
 
 ClosedCube_OPT3001 opt3001;
 
-#define OPT3001_ADDRESS 0x45  // OPT3001 I2C address is 0x45(69)
+#define OPT3001_ADDRESS 0x44  // OPT3001 I2C address is 0x45(69)
 
 void printError(String text, OPT3001_ErrorCode error);
 void printResult(String text, OPT3001 result); 
