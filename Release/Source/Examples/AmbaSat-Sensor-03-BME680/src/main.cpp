@@ -28,6 +28,9 @@
 * Original written by Limor Fried & Kevin Townsend for Adafruit Industries.
 * =================================================================================
 *
+* For more infomration on the BME680, see:
+* https://randomnerdtutorials.com/bme680-sensor-arduino-gas-temperature-humidity-pressure/
+*
 * ******************************************************************************/
 #include <Arduino.h>
 #include <Wire.h>
