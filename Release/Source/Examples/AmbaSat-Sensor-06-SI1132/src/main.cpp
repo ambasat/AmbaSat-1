@@ -1,7 +1,7 @@
 /*******************************************************************************
 * AmbaSat-1 Sensor 06 - SI1132
-* 25th September 2020
-* Version 1.0
+* 30th October 2020
+* Version 1.01
 * Filename: main.cpp
 *
 * Copyright (c) 2020 AmbaSat Ltd
