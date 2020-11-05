@@ -32,9 +32,9 @@ void setup()
 	  Serial.print("Serial #");
   	Serial.println(sht3xd.readSerialNumber());
 
-	  if (sht3xd.periodicStart(SHT3XD_REPEATABILITY_HIGH, SHT3XD_FREQUENCY_10HZ) != SHT3XD_NO_ERROR)
+    if (sht3xd.periodicStart(SHT3XD_REPEATABILITY_HIGH, SHT3XD_FREQUENCY_10HZ) != SHT3XD_NO_ERROR)
     {
-	    	Serial.println("[ERROR] Cannot start periodic mode");
+	   	Serial.println("[ERROR] Cannot start periodic mode");
     }
 }
 
@@ -56,5 +56,5 @@ void loop()
         Serial.println(res.error);
     }
 
-    delay(250);
+    delay(1000);
 }
