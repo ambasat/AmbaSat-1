@@ -19,8 +19,6 @@
 
 #define addr 0x4A // STS21 I2C address is 0x4A(74)
 
-ClosedCube_OPT3001 opt3001;
-
 // ==============================================================================
 void setup() {
     Wire.begin();
