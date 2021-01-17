@@ -1,6 +1,6 @@
 /*******************************************************************************
 * AmbaSat-1 TTN
-* 20th May 2020
+* 17th January 2021
 * Version 1.0
 * Filename: main.cpp
 *
@@ -325,7 +325,7 @@ void loop()
     packetData.field2 = 21; // Assign dummy temperature value to field1
     packetData.field1 = 55; // Assign dummy humidity value to field1
 
-    packetData.voltage = readVcc();
+    packetData.voltage = readVcc(); 
 
     do_send(&sendjob);    // send the sensor payload to TTN
 

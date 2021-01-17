@@ -65,6 +65,7 @@ static const u1_t PROGMEM APPSKEY[16] = {0x6B,0x98,0xF3,0x21,0x46,0xBF,0x35,0x20
 
 // LoRaWAN end-device address (DevAddr)
 static const u4_t DEVADDR = 0x26011D67 ;  //<< CHANGE
+
 /***********************************  IMPORTANT */
 
 // These callbacks are only used in over-the-air activation, so they are
