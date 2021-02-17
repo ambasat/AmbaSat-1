@@ -58,7 +58,7 @@ static unsigned long lastPrint = 0; // Keep track of print time
 // Earth's magnetic field varies by location. Add or subtract a declination to get a more accurate heading. 
 // Calculate yours here: http://www.geomag.bgs.ac.uk/data_service/models_compass/wmm_calc.html
 
-#define DECLINATION -0.62 // Declination (degrees), northallerton, North Yorks 
+#define DECLINATION -0.62 // Declination (degrees), Northallerton, North Yorks 
 
 //Function definitions
 void printGyro();
