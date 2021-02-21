@@ -8,3 +8,9 @@
 # Ignore Finder files on the Mac
 .DS_Store
 
+Release/Source/FlightCode/AmbaSat-FlightCode-SHT31/private.txt
+Release/Source/FlightCode/AmbaSat-FlightCode-SHT31/.vscode/c_cpp_properties.json
+Release/Source/FlightCode/AmbaSat-FlightCode-SHT31/.vscode/.BROWSE.C_CPP.DB
+Release/Source/FlightCode/AmbaSat-FlightCode-SHT31/.vscode/launch.json
+Release/Source/FlightCode/AmbaSat-FlightCode-SHT31/.vscode/settings.json
+Release/Source/FlightCode/AmbaSat-FlightCode-SHT31/.vscode/extensions.json
