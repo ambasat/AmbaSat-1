@@ -9,7 +9,7 @@
 * Copyright (c) 2021 AmbaSat Ltd
 * https://ambasat.com
 *
-* AmbaSat opensource code available on gitHub at:
+* AmbaSat opensource code available on GitHub at:
 * https://github.com/ambasat
 *
 * To use this code, set NWKSKEY, APPSKEY & DEVADDR values as per your Dashboard
@@ -98,7 +98,7 @@ void loop()
 
     voltage = readVcc();
 
-    // read SHT31
+    // read STS21
     if (ambasatSTS21->getSensorReading(&temperature)  == false) 
     {
         PRINTLN_DEBUG(F("Failed to read sensor data"));
@@ -162,7 +162,7 @@ void loop()
     message.addUint16(ambasatLSM9DS1->mz); 
 
     // send payload 
-    ambasatLMIC->sendSensorPayload(SENSOR_01_SHT31, message);  
+    ambasatLMIC->sendSensorPayload(SENSOR_02_STS21, message);  
 
     // sleep 8 seconds * sleepcycles
     for (int i=0; i < sleepcycles; i++)
