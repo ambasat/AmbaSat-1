@@ -1,0 +1,22 @@
+{
+  "build": {
+    "core": "MiniCore",
+    "extra_flags": "-DARDUINO_AVR_ATmega328P",
+    "f_cpu": "1000000L",
+    "mcu": "atmega328p",
+    "variant": "standard"
+  },
+  "frameworks": [
+    "arduino"
+  ],
+  "name": "AmbaSat-1",
+  "upload": {
+    "maximum_ram_size": 2048,
+    "maximum_size": 32256,
+    "protocol": "arduino",
+    "require_upload_port": true,
+    "speed": 9600
+  },
+  "url": "https://ambasat.com/",
+  "vendor": "AmbaSat Ltd"
+}
