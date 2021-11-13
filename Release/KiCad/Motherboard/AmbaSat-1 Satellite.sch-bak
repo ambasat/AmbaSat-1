@@ -1,0 +1,822 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "AmbaSat-1"
+Date ""
+Rev ""
+Comp "AmbaSat Ltd"
+Comment1 "Sprite class satellite (ChipSat/Femtosatellite)"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	3050 1150 2550 1150
+Wire Wire Line
+	2550 1150 2250 1150
+Wire Wire Line
+	2250 1150 2250 1050
+Wire Wire Line
+	3050 1250 2850 1250
+Wire Wire Line
+	2850 1250 2550 1250
+Wire Wire Line
+	2550 1250 2550 1150
+Wire Wire Line
+	3050 1350 2850 1350
+Wire Wire Line
+	2850 1350 2850 1250
+Connection ~ 2550 1150
+Connection ~ 2850 1250
+Wire Wire Line
+	5250 1750 5250 1450
+Wire Wire Line
+	4200 4750 4500 4750
+Wire Wire Line
+	4500 4750 4500 4550
+Wire Wire Line
+	6100 4400 6100 4900
+Wire Wire Line
+	3050 2650 2400 2650
+Wire Wire Line
+	3050 2750 2750 2750
+Wire Wire Line
+	2750 2750 2750 2850
+Wire Wire Line
+	2750 2850 2400 2850
+Wire Wire Line
+	3050 2950 2650 2950
+Wire Wire Line
+	2650 2950 2650 3050
+Wire Wire Line
+	2650 3050 2650 3150
+Wire Wire Line
+	2650 3150 2650 3250
+Wire Wire Line
+	3050 3050 2650 3050
+Wire Wire Line
+	3050 3150 2650 3150
+Connection ~ 2650 3050
+Connection ~ 2650 3150
+Wire Wire Line
+	1950 2150 1950 2350
+Wire Wire Line
+	7700 2800 7700 2850
+Wire Wire Line
+	4800 7100 4800 7250
+Wire Wire Line
+	3200 5150 2800 5150
+Wire Wire Line
+	4500 5100 4500 5250
+Wire Wire Line
+	9400 1900 9400 2100
+Wire Wire Line
+	3050 2150 2650 2150
+Wire Wire Line
+	4450 1750 4850 1750
+Text Label 4500 1750 0    70   ~ 0
+RESET
+Wire Wire Line
+	4600 6650 4800 6650
+Wire Wire Line
+	4800 6650 5350 6650
+Wire Wire Line
+	4800 6650 4800 6800
+Text Label 4950 6650 0    70   ~ 0
+RESET
+Connection ~ 4800 6650
+Wire Wire Line
+	3050 2250 2650 2250
+Text Label 2700 2250 0    70   ~ 0
+SS
+Wire Wire Line
+	7200 2000 6850 2000
+Text Label 6900 2000 0    70   ~ 0
+SS
+Text Label 3850 7050 0    70   ~ 0
+SS
+Wire Wire Line
+	3050 2350 2650 2350
+Text Label 2700 2350 0    70   ~ 0
+MOSI
+Wire Wire Line
+	7200 2300 6850 2300
+Text Label 6900 2300 0    70   ~ 0
+MOSI
+Text Label 1800 6850 0    70   ~ 0
+MOSI
+Wire Wire Line
+	3050 2450 2650 2450
+Text Label 2700 2450 0    70   ~ 0
+MISO
+Wire Wire Line
+	7200 2200 6850 2200
+Text Label 6900 2200 0    70   ~ 0
+MISO
+Text Label 1800 6750 0    70   ~ 0
+MISO
+Wire Wire Line
+	4450 1950 4850 1950
+Text Label 4500 1950 0    70   ~ 0
+RX
+Text Label 3850 6850 0    70   ~ 0
+RX
+Wire Wire Line
+	4450 2050 4850 2050
+Text Label 4500 2050 0    70   ~ 0
+TX
+Text Label 3850 6750 0    70   ~ 0
+TX
+Wire Wire Line
+	4450 1650 4850 1650
+Text Label 4500 1650 0    70   ~ 0
+SCL
+Text Label 1800 7150 0    70   ~ 0
+SCL
+Text Label 9400 4500 0    70   ~ 0
+SCL
+Wire Wire Line
+	4450 1550 4850 1550
+Text Label 4500 1550 0    70   ~ 0
+SDA
+Text Label 1800 7050 0    70   ~ 0
+SDA
+Wire Wire Line
+	9000 4000 9000 4400
+Text Label 9400 4400 0    70   ~ 0
+SDA
+Wire Wire Line
+	4450 2150 4850 2150
+Text Label 4500 2150 0    70   ~ 0
+DIO0
+Wire Wire Line
+	7200 2500 6850 2500
+Text Label 6900 2500 0    70   ~ 0
+DIO0
+Text Label 3850 6950 0    70   ~ 0
+VIN
+Wire Wire Line
+	3200 4750 3100 4750
+Wire Wire Line
+	3200 4950 3100 4950
+Wire Wire Line
+	3100 4950 3100 4750
+Text Label 2550 4750 0    70   ~ 0
+VIN
+Wire Wire Line
+	4450 2250 4850 2250
+Text Label 4500 2250 0    70   ~ 0
+D3
+Text Label 1800 6950 0    70   ~ 0
+D3
+Wire Wire Line
+	4450 1150 4850 1150
+Text Label 4500 1150 0    70   ~ 0
+A0
+Wire Wire Line
+	7200 2600 6850 2600
+Text Label 6900 2600 0    70   ~ 0
+DIO1
+Wire Wire Line
+	4450 1350 4850 1350
+Text Label 4500 1350 0    70   ~ 0
+DIO1
+Wire Wire Line
+	3050 2550 2650 2550
+Text Label 2700 2550 0    70   ~ 0
+SCK
+Wire Wire Line
+	7200 2100 6850 2100
+Text Label 6900 2100 0    70   ~ 0
+SCK
+Text Label 1800 6650 0    70   ~ 0
+SCK
+Wire Wire Line
+	7700 4800 7450 4800
+Wire Wire Line
+	7450 4800 7450 4900
+$Comp
+L AmbaSat-1_Satellite-eagle-import:ATMEGA328P-AU U2
+U 1 1 7A6AF24E
+P 3750 2050
+F 0 "U2" H 3300 3200 59  0000 C CNN
+F 1 "ATMEGA328P-AU" H 3750 2050 50  0001 C CNN
+F 2 "AmbaSat-1 Satellite:QFP80P900X900X120-32N" H 3750 2050 50  0001 C CNN
+F 3 "" H 3750 2050 50  0001 C CNN
+	1    3750 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:VCC #P+01
+U 1 1 6A081B6E
+P 2250 950
+F 0 "#P+01" H 2250 950 50  0001 C CNN
+F 1 "VCC" H 2250 1000 59  0000 C CNN
+F 2 "" H 2250 950 50  0001 C CNN
+F 3 "" H 2250 950 50  0001 C CNN
+	1    2250 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:RESONATOR-4MHZSMD-4.5X2 Y1
+U 1 1 427827AE
+P 2400 2750
+F 0 "Y1" V 2200 2750 70  0000 C CNN
+F 1 "4MHz" V 2600 2750 70  0000 C CNN
+F 2 "AmbaSat-1 Satellite:RESONATOR-SMD-4.5X2.0" H 2400 2750 50  0001 C CNN
+F 3 "" H 2400 2750 50  0001 C CNN
+	1    2400 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND01
+U 1 1 8DA2BB24
+P 2000 3050
+F 0 "#GND01" H 2000 3050 50  0001 C CNN
+F 1 "GND" H 1900 2950 59  0000 L BNN
+F 2 "" H 2000 3050 50  0001 C CNN
+F 3 "" H 2000 3050 50  0001 C CNN
+	1    2000 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:LEDCHIP-LED0805 D1
+U 1 1 C78C3FBD
+P 2150 2150
+F 0 "D1" V 1950 2100 59  0000 C CNN
+F 1 "LEDCHIP-LED0805" V 1950 2000 59  0001 L BNN
+F 2 "AmbaSat-1 Satellite:CHIP-LED0805" H 2150 2150 50  0001 C CNN
+F 3 "" H 2150 2150 50  0001 C CNN
+	1    2150 2150
+	0    1    1    0   
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:R-EU_M0805 R1
+U 1 1 B0CEE264
+P 2450 2150
+F 0 "R1" H 2400 2200 59  0000 L BNN
+F 1 "1K" H 2450 2150 39  0000 C CNN
+F 2 "AmbaSat-1 Satellite:M0805" H 2450 2150 50  0001 C CNN
+F 3 "" H 2450 2150 50  0001 C CNN
+	1    2450 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:R-EU_M0805 R2
+U 1 1 8606AE8F
+P 5050 1750
+F 0 "R2" H 5000 1800 59  0000 L BNN
+F 1 " 10k" H 5050 1750 39  0000 C CNN
+F 2 "AmbaSat-1 Satellite:M0805" H 5050 1750 50  0001 C CNN
+F 3 "" H 5050 1750 50  0001 C CNN
+	1    5050 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:C-EUC0805K C1
+U 1 1 C8E3AF05
+P 4500 6650
+F 0 "C1" V 4350 6600 59  0000 C CNN
+F 1 "1uF" V 4650 6600 59  0000 C CNN
+F 2 "AmbaSat-1 Satellite:C0805K" H 4500 6650 50  0001 C CNN
+F 3 "" H 4500 6650 50  0001 C CNN
+	1    4500 6650
+	0    1    1    0   
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND02
+U 1 1 4877C9E2
+P 2650 3350
+F 0 "#GND02" H 2650 3350 50  0001 C CNN
+F 1 "GND" H 2550 3250 59  0000 L BNN
+F 2 "" H 2650 3350 50  0001 C CNN
+F 3 "" H 2650 3350 50  0001 C CNN
+	1    2650 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND03
+U 1 1 21137572
+P 1950 2450
+F 0 "#GND03" H 1950 2450 50  0001 C CNN
+F 1 "GND" H 1850 2350 59  0000 L BNN
+F 2 "" H 1950 2450 50  0001 C CNN
+F 3 "" H 1950 2450 50  0001 C CNN
+	1    1950 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:VCC #P+02
+U 1 1 637B3A6A
+P 5250 1350
+F 0 "#P+02" H 5250 1350 50  0001 C CNN
+F 1 "VCC" H 5250 1400 59  0000 C CNN
+F 2 "" H 5250 1350 50  0001 C CNN
+F 3 "" H 5250 1350 50  0001 C CNN
+	1    5250 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND05
+U 1 1 5B6A58CA
+P 7700 2950
+F 0 "#GND05" H 7700 2950 50  0001 C CNN
+F 1 "GND" H 7600 2850 59  0000 L BNN
+F 2 "" H 7700 2950 50  0001 C CNN
+F 3 "" H 7700 2950 50  0001 C CNN
+	1    7700 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND07
+U 1 1 C2693486
+P 4100 7350
+F 0 "#GND07" H 4100 7350 50  0001 C CNN
+F 1 "GND" H 4000 7250 59  0000 L BNN
+F 2 "" H 4100 7350 50  0001 C CNN
+F 3 "" H 4100 7350 50  0001 C CNN
+	1    4100 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:LP2985AIM5-3.3 U3
+U 1 1 AFB3254D
+P 3700 4950
+F 0 "U3" H 3410 5270 59  0000 L BNN
+F 1 "LP2985AIM5-3.3" H 3700 4950 50  0001 C CNN
+F 2 "AmbaSat-1 Satellite:SOT25" H 3700 4950 50  0001 C CNN
+F 3 "" H 3700 4950 50  0001 C CNN
+	1    3700 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:C-EUC0805K C3
+U 1 1 88676885
+P 4800 6900
+F 0 "C3" H 4850 6950 59  0000 L CNN
+F 1 "0.1uF" H 4850 6750 59  0000 L CNN
+F 2 "AmbaSat-1 Satellite:C0805K" H 4800 6900 50  0001 C CNN
+F 3 "" H 4800 6900 50  0001 C CNN
+	1    4800 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND08
+U 1 1 E3161DBF
+P 4800 7350
+F 0 "#GND08" H 4800 7350 50  0001 C CNN
+F 1 "GND" H 4700 7250 59  0000 L BNN
+F 2 "" H 4800 7350 50  0001 C CNN
+F 3 "" H 4800 7350 50  0001 C CNN
+	1    4800 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND09
+U 1 1 FD0A31A1
+P 2800 5350
+F 0 "#GND09" H 2800 5350 50  0001 C CNN
+F 1 "GND" H 2700 5250 59  0000 L BNN
+F 2 "" H 2800 5350 50  0001 C CNN
+F 3 "" H 2800 5350 50  0001 C CNN
+	1    2800 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:VCC #P+04
+U 1 1 459FCD94
+P 4500 4450
+F 0 "#P+04" H 4500 4450 50  0001 C CNN
+F 1 "VCC" H 4500 4500 59  0000 C CNN
+F 2 "" H 4500 4450 50  0001 C CNN
+F 3 "" H 4500 4450 50  0001 C CNN
+	1    4500 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:C-EUC0805K C5
+U 1 1 E380C306
+P 4500 4900
+F 0 "C5" H 4560 4915 59  0000 L BNN
+F 1 "2.2uF" H 4560 4715 59  0000 L BNN
+F 2 "AmbaSat-1 Satellite:C0805K" H 4500 4900 50  0001 C CNN
+F 3 "" H 4500 4900 50  0001 C CNN
+	1    4500 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND010
+U 1 1 0087CD10
+P 4500 5350
+F 0 "#GND010" H 4500 5350 50  0001 C CNN
+F 1 "GND" H 4400 5250 59  0000 L BNN
+F 2 "" H 4500 5350 50  0001 C CNN
+F 3 "" H 4500 5350 50  0001 C CNN
+	1    4500 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:LSM9DS1 U1
+U 1 1 94FABF20
+P 8300 5000
+F 0 "U1" H 7800 5750 59  0000 L CNN
+F 1 "LSM9DS1" H 7800 4250 59  0000 L CNN
+F 2 "AmbaSat-1 Satellite:LGA24-8X4" H 8300 5000 50  0001 C CNN
+F 3 "" H 8300 5000 50  0001 C CNN
+	1    8300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:VCC #P+05
+U 1 1 57F4DC09
+P 9300 3400
+F 0 "#P+05" H 9300 3400 50  0001 C CNN
+F 1 "VCC" H 9300 3450 59  0000 C CNN
+F 2 "" H 9300 3400 50  0001 C CNN
+F 3 "" H 9300 3400 50  0001 C CNN
+	1    9300 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:C-EUC0805K C6
+U 1 1 CFDC1CA0
+P 6100 5000
+F 0 "C6" H 6160 5015 59  0000 L BNN
+F 1 "10uF" H 6160 4815 59  0000 L BNN
+F 2 "AmbaSat-1 Satellite:C0805K" H 6100 5000 50  0001 C CNN
+F 3 "" H 6100 5000 50  0001 C CNN
+	1    6100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:C-EUC0805K C7
+U 1 1 C15D389E
+P 6550 5000
+F 0 "C7" H 6610 5015 59  0000 L BNN
+F 1 "0.1uF" H 6610 4815 59  0000 L BNN
+F 2 "AmbaSat-1 Satellite:C0805K" H 6550 5000 50  0001 C CNN
+F 3 "" H 6550 5000 50  0001 C CNN
+	1    6550 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:C-EUC0805K C9
+U 1 1 F5E906B6
+P 7450 5000
+F 0 "C9" H 7510 5015 59  0000 L BNN
+F 1 "0.1uF" H 7510 4815 59  0000 L BNN
+F 2 "AmbaSat-1 Satellite:C0805K" H 7450 5000 50  0001 C CNN
+F 3 "" H 7450 5000 50  0001 C CNN
+	1    7450 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:VCC #P+06
+U 1 1 4B6CF0C8
+P 6100 4200
+F 0 "#P+06" H 6100 4200 50  0001 C CNN
+F 1 "VCC" H 6100 4250 59  0000 C CNN
+F 2 "" H 6100 4200 50  0001 C CNN
+F 3 "" H 6100 4200 50  0001 C CNN
+	1    6100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND011
+U 1 1 5518330F
+P 6100 5800
+F 0 "#GND011" H 6100 5800 50  0001 C CNN
+F 1 "GND" H 6000 5700 59  0000 L BNN
+F 2 "" H 6100 5800 50  0001 C CNN
+F 3 "" H 6100 5800 50  0001 C CNN
+	1    6100 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:PINHD-1X8 JP1
+U 1 1 0B60073D
+P 1450 6950
+F 0 "JP1" H 1350 6500 59  0000 C CNN
+F 1 "PINHD-1X8" H 1350 7550 59  0000 C CNN
+F 2 "AmbaSat-1 Satellite:1X08" H 1450 6950 50  0001 C CNN
+F 3 "" H 1450 6950 50  0001 C CNN
+	1    1450 6950
+	-1   0    0    1   
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:PINHD-1X6 JP2
+U 1 1 BAFA783C
+P 3500 6850
+F 0 "JP2" H 3400 6500 59  0000 C CNN
+F 1 "PINHD-1X6" H 3400 7350 59  0000 C CNN
+F 2 "AmbaSat-1 Satellite:1X06" H 3500 6850 50  0001 C CNN
+F 3 "" H 3500 6850 50  0001 C CNN
+	1    3500 6850
+	-1   0    0    1   
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:R-EU_M0805 R3
+U 1 1 DF39756A
+P 9000 3800
+F 0 "R3" V 9000 3650 59  0000 L CNN
+F 1 "1K" H 9000 3800 39  0000 C CNN
+F 2 "AmbaSat-1 Satellite:M0805" H 9000 3800 50  0001 C CNN
+F 3 "" H 9000 3800 50  0001 C CNN
+	1    9000 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:R-EU_M0805 R4
+U 1 1 C5ADFEB6
+P 9300 3800
+F 0 "R4" V 9300 3650 59  0000 L CNN
+F 1 "1K" H 9300 3800 39  0000 C CNN
+F 2 "AmbaSat-1 Satellite:M0805" H 9300 3800 50  0001 C CNN
+F 3 "" H 9300 3800 50  0001 C CNN
+	1    9300 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:U.FL U.FL1
+U 1 1 C1A26F23
+P 8700 2200
+F 0 "U.FL1" H 8550 2360 59  0000 L BNN
+F 1 "U.FL" H 8700 2200 50  0001 C CNN
+F 2 "AmbaSat-1 Satellite:U.FL" H 8700 2200 50  0001 C CNN
+F 3 "" H 8700 2200 50  0001 C CNN
+	1    8700 2200
+	-1   0    0    1   
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND04
+U 1 1 12C122FD
+P 9400 2200
+F 0 "#GND04" H 9400 2200 50  0001 C CNN
+F 1 "GND" H 9300 2100 59  0000 L BNN
+F 2 "" H 9400 2200 50  0001 C CNN
+F 3 "" H 9400 2200 50  0001 C CNN
+	1    9400 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:HEADER-1X1ROUND JP3
+U 1 1 8182258E
+P 8450 1700
+F 0 "JP3" V 8850 1700 59  0000 C CNN
+F 1 "HEADER-1X1ROUND" H 8200 1500 59  0001 L BNN
+F 2 "AmbaSat-1 Satellite:1X01_ROUND" H 8450 1700 50  0001 C CNN
+F 3 "" H 8450 1700 50  0001 C CNN
+	1    8450 1700
+	0    -1   -1   0   
+$EndComp
+Text Notes 8900 7350 0    85   ~ 0
+© 2020 AmbaSat Ltd\nAuthors: John Mowbray, \nMartin Platt, Sudu Malli\nWeb: ambasat.com
+Wire Wire Line
+	8800 1900 8900 1900
+Wire Wire Line
+	8800 2000 8900 2000
+Wire Wire Line
+	8900 2000 8900 1900
+Connection ~ 8900 1900
+Wire Wire Line
+	8900 1900 9400 1900
+Wire Wire Line
+	2100 2750 2000 2750
+Wire Wire Line
+	2000 2750 2000 2950
+$Comp
+L AmbaSat-1_Satellite-eagle-import:GND #GND0101
+U 1 1 619C617A
+P 2650 7700
+F 0 "#GND0101" H 2650 7700 50  0001 C CNN
+F 1 "GND" H 2550 7600 59  0000 L BNN
+F 2 "" H 2650 7700 50  0001 C CNN
+F 3 "" H 2650 7700 50  0001 C CNN
+	1    2650 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:VCC #P+0101
+U 1 1 619C65D0
+P 2400 7400
+F 0 "#P+0101" H 2400 7400 50  0001 C CNN
+F 1 "VCC" H 2400 7450 59  0000 C CNN
+F 2 "" H 2400 7400 50  0001 C CNN
+F 3 "" H 2400 7400 50  0001 C CNN
+	1    2400 7400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 7250 2650 7600
+Wire Wire Line
+	2150 7350 2150 7600
+Wire Wire Line
+	2150 7600 2400 7600
+Wire Wire Line
+	2400 7600 2400 7500
+Wire Wire Line
+	4100 7150 4100 7250
+Connection ~ 2800 5150
+Wire Wire Line
+	2800 5250 2800 5150
+Wire Wire Line
+	7000 4700 7000 4900
+Wire Wire Line
+	7700 4700 7000 4700
+Wire Wire Line
+	6100 4400 6550 4400
+Wire Wire Line
+	7700 4500 7600 4500
+Wire Wire Line
+	7600 4500 7600 4400
+Connection ~ 7600 4400
+Wire Wire Line
+	7600 4400 7700 4400
+Wire Wire Line
+	6550 4400 6550 4900
+Connection ~ 6550 4400
+Wire Wire Line
+	6550 4400 7600 4400
+Wire Wire Line
+	6100 4300 6100 4400
+Connection ~ 6100 4400
+Wire Wire Line
+	6100 5600 6100 5700
+Wire Wire Line
+	6100 5600 6550 5600
+Wire Wire Line
+	7700 5500 7600 5500
+Wire Wire Line
+	7600 5500 7600 5600
+Connection ~ 7600 5600
+Wire Wire Line
+	7600 5600 7700 5600
+Wire Wire Line
+	7450 5200 7450 5600
+Connection ~ 7450 5600
+Wire Wire Line
+	7450 5600 7600 5600
+Wire Wire Line
+	7000 5200 7000 5600
+Connection ~ 7000 5600
+Wire Wire Line
+	7000 5600 7450 5600
+Wire Wire Line
+	6550 5200 6550 5600
+Connection ~ 6550 5600
+Wire Wire Line
+	6550 5600 7000 5600
+Wire Wire Line
+	6100 5200 6100 5600
+Connection ~ 6100 5600
+$Comp
+L AmbaSat-1_Satellite-eagle-import:RFM95 U4
+U 1 1 D235792D
+P 7700 2200
+F 0 "U4" H 7350 2850 59  0000 C CNN
+F 1 "RFM95" H 7700 2200 50  0001 C CNN
+F 2 "AmbaSat-1 Satellite:RFM95" H 7700 2200 50  0001 C CNN
+F 3 "" H 7700 2200 50  0001 C CNN
+	1    7700 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L AmbaSat-1_Satellite-eagle-import:VCC #P+03
+U 1 1 48C2C5DB
+P 7700 1350
+F 0 "#P+03" H 7700 1350 50  0001 C CNN
+F 1 "VCC" H 7700 1400 59  0000 C CNN
+F 2 "" H 7700 1350 50  0001 C CNN
+F 3 "" H 7700 1350 50  0001 C CNN
+	1    7700 1350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7700 1450 7700 1500
+Wire Wire Line
+	8200 2200 8450 2200
+Wire Wire Line
+	8450 1700 8450 2200
+Connection ~ 8450 2200
+Wire Wire Line
+	8450 2200 8500 2200
+Wire Wire Line
+	2800 5150 2800 5100
+$Comp
+L AmbaSat-1_Satellite-eagle-import:C-EUC0805K C4
+U 1 1 674C1B16
+P 2800 4900
+F 0 "C4" H 2860 4915 59  0000 L BNN
+F 1 "1uF" H 2860 4715 59  0000 L BNN
+F 2 "AmbaSat-1 Satellite:C0805K" H 2800 4900 50  0001 C CNN
+F 3 "" H 2800 4900 50  0001 C CNN
+	1    2800 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 4750 2800 4750
+Wire Wire Line
+	2800 4750 2800 4800
+Connection ~ 3100 4750
+Wire Wire Line
+	2800 4750 2500 4750
+Connection ~ 2800 4750
+Wire Wire Line
+	4500 4750 4500 4800
+Connection ~ 4500 4750
+Wire Wire Line
+	1650 6650 2150 6650
+Wire Wire Line
+	1650 6750 2150 6750
+Wire Wire Line
+	1650 6850 2150 6850
+Wire Wire Line
+	1650 6950 2150 6950
+Wire Wire Line
+	1650 7050 2150 7050
+Wire Wire Line
+	1650 7150 2150 7150
+Wire Wire Line
+	1650 7250 2650 7250
+Wire Wire Line
+	1650 7350 2150 7350
+Wire Wire Line
+	3700 6650 4300 6650
+Wire Wire Line
+	3700 6750 4100 6750
+Wire Wire Line
+	3700 6850 4100 6850
+Wire Wire Line
+	3700 6950 4100 6950
+Wire Wire Line
+	3700 7050 4100 7050
+Wire Wire Line
+	3700 7150 4100 7150
+Wire Wire Line
+	9000 3600 9000 3550
+Wire Wire Line
+	9000 3550 9300 3550
+Wire Wire Line
+	9300 3550 9300 3500
+Wire Wire Line
+	9300 3600 9300 3550
+Connection ~ 9300 3550
+Wire Wire Line
+	9000 4400 9700 4400
+Wire Wire Line
+	9300 4500 9700 4500
+Wire Wire Line
+	8900 4400 9000 4400
+Connection ~ 9000 4400
+Wire Wire Line
+	9300 4500 9300 4000
+Wire Wire Line
+	8900 4500 9300 4500
+Connection ~ 9300 4500
+$Comp
+L AmbaSat-1_Satellite-eagle-import:VCC #P+?
+U 1 1 61C65FEE
+P 9300 4700
+F 0 "#P+?" H 9300 4700 50  0001 C CNN
+F 1 "VCC" H 9300 4750 59  0000 C CNN
+F 2 "" H 9300 4700 50  0001 C CNN
+F 3 "" H 9300 4700 50  0001 C CNN
+	1    9300 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 4600 9000 4600
+Wire Wire Line
+	9000 4600 9000 4700
+Wire Wire Line
+	9000 4900 9300 4900
+Wire Wire Line
+	9300 4900 9300 4800
+Wire Wire Line
+	8900 4700 9000 4700
+Connection ~ 9000 4700
+Wire Wire Line
+	9000 4700 9000 4800
+Wire Wire Line
+	8900 4800 9000 4800
+Connection ~ 9000 4800
+Wire Wire Line
+	9000 4800 9000 4900
+Wire Wire Line
+	8900 4900 9000 4900
+Connection ~ 9000 4900
+$Comp
+L AmbaSat-1_Satellite-eagle-import:C-EUC0805K C8
+U 1 1 428FE661
+P 7000 5000
+F 0 "C8" H 7060 5015 59  0000 L BNN
+F 1 "10nF" H 7060 4815 59  0000 L BNN
+F 2 "AmbaSat-1 Satellite:C0805K" H 7000 5000 50  0001 C CNN
+F 3 "" H 7000 5000 50  0001 C CNN
+	1    7000 5000
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
