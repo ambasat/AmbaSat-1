@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "AmbaSat-1 Satellite")(type KiCad)(uri "$(KIPRJMOD)/AmbaSat-1 Satellite.pretty")(options "")(descr ""))
+  (lib (name "AmbaSat-1_Satellite")(type KiCad)(uri "$(KIPRJMOD)/AmbaSat-1_Satellite.pretty")(options "")(descr ""))
 )
