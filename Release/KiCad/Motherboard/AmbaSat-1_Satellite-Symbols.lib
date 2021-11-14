@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# AmbaSat-1_Satellite-Symbols_3V3
+# 3V3
 #
-DEF AmbaSat-1_Satellite-Symbols_3V3 #PWR 0 0 Y Y 1 F P
+DEF 3V3 #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 175 20 H I C CNN
-F1 "AmbaSat-1_Satellite-Symbols_3V3" 0 125 50 H V C CNN
+F1 "3V3" 0 125 50 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
@@ -15,11 +15,11 @@ X 3V3 1 0 0 0 U 20 20 0 0 W N
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_ATMEGA328P-AU
+# ATMEGA328P-AU
 #
-DEF AmbaSat-1_Satellite-Symbols_ATMEGA328P-AU U 0 40 Y Y 1 L N
+DEF ATMEGA328P-AU U 0 40 Y Y 1 L N
 F0 "U" 0 0 50 H I C CNN
-F1 "AmbaSat-1_Satellite-Symbols_ATMEGA328P-AU" 0 0 50 H I C CNN
+F1 "ATMEGA328P-AU" 0 0 50 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -62,11 +62,11 @@ X PD5 9 700 -400 200 L 50 50 1 0 B
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_C
+# C
 #
-DEF AmbaSat-1_Satellite-Symbols_C C 0 10 N Y 1 F N
+DEF C C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "AmbaSat-1_Satellite-Symbols_C" 25 -100 50 H V L CNN
+F1 "C" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -80,11 +80,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_GND
+# GND
 #
-DEF AmbaSat-1_Satellite-Symbols_GND #PWR 0 0 Y Y 1 F P
+DEF GND #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "AmbaSat-1_Satellite-Symbols_GND" 0 -150 50 H V C CNN
+F1 "GND" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -93,11 +93,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_HEADER-1X1ROUND
+# HEADER-1X1ROUND
 #
-DEF AmbaSat-1_Satellite-Symbols_HEADER-1X1ROUND JP 0 40 Y Y 1 L N
+DEF HEADER-1X1ROUND JP 0 40 Y Y 1 L N
 F0 "JP" 25 125 59 H V L BNN
-F1 "AmbaSat-1_Satellite-Symbols_HEADER-1X1ROUND" -250 -200 59 H V L BNN
+F1 "HEADER-1X1ROUND" -250 -200 59 H V L BNN
 F2 "" 275 0 50 H I C CNN
 F3 "" 275 0 50 H I C CNN
 DRAW
@@ -109,11 +109,11 @@ X 1 1 0 0 300 R 50 0 1 0 P I
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_LED
+# LED
 #
-DEF AmbaSat-1_Satellite-Symbols_LED D 0 1 N N 1 F N
+DEF LED D 0 1 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "AmbaSat-1_Satellite-Symbols_LED" 0 -100 50 H V C CNN
+F1 "LED" 0 -100 50 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 $FPLIST
@@ -135,11 +135,11 @@ X C C 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_LP2985AIM5-3.3
+# LP2985AIM5-3.3
 #
-DEF AmbaSat-1_Satellite-Symbols_LP2985AIM5-3.3 ~ 0 40 Y Y 1 L N
+DEF LP2985AIM5-3.3 ~ 0 40 Y Y 1 L N
 F0 "" -290 320 59 H V L BNN
-F1 "AmbaSat-1_Satellite-Symbols_LP2985AIM5-3.3" 0 0 50 H I C CNN
+F1 "LP2985AIM5-3.3" 0 0 50 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -155,11 +155,11 @@ X VOUT 5 500 200 200 L 50 50 1 0 W
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_LSM9DS1
+# LSM9DS1
 #
-DEF AmbaSat-1_Satellite-Symbols_LSM9DS1 U 0 40 Y Y 1 L N
+DEF LSM9DS1 U 0 40 Y Y 1 L N
 F0 "U" -500 750 59 H V L CNN
-F1 "AmbaSat-1_Satellite-Symbols_LSM9DS1" -500 -750 59 H V L CNN
+F1 "LSM9DS1" -500 -750 59 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -194,11 +194,11 @@ X DRDY_M 9 600 -500 100 L 50 50 1 0 B
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_PINHD-1X6
+# PINHD-1X6
 #
-DEF AmbaSat-1_Satellite-Symbols_PINHD-1X6 JP 0 40 Y Y 1 L N
+DEF PINHD-1X6 JP 0 40 Y Y 1 L N
 F0 "JP" -250 425 59 H V L BNN
-F1 "AmbaSat-1_Satellite-Symbols_PINHD-1X6" -250 -400 59 H V L BNN
+F1 "PINHD-1X6" -250 -400 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -215,11 +215,11 @@ X 6 6 -200 -200 200 R 50 0 1 0 P I
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_PINHD-1X8
+# PINHD-1X8
 #
-DEF AmbaSat-1_Satellite-Symbols_PINHD-1X8 JP 0 40 Y Y 1 L N
+DEF PINHD-1X8 JP 0 40 Y Y 1 L N
 F0 "JP" -250 525 59 H V L BNN
-F1 "AmbaSat-1_Satellite-Symbols_PINHD-1X8" -250 -500 59 H V L BNN
+F1 "PINHD-1X8" -250 -500 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -238,11 +238,11 @@ X 8 8 -200 -300 200 R 50 0 1 0 P I
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_R
+# R
 #
-DEF AmbaSat-1_Satellite-Symbols_R R 0 0 N Y 1 F N
+DEF R R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "AmbaSat-1_Satellite-Symbols_R" 0 0 50 V V C CNN
+F1 "R" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -256,11 +256,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_RESONATOR-4MHZSMD-4.5X2
+# RESONATOR-4MHZSMD-4.5X2
 #
-DEF AmbaSat-1_Satellite-Symbols_RESONATOR-4MHZSMD-4.5X2 Y 0 40 Y Y 1 L N
+DEF RESONATOR-4MHZSMD-4.5X2 Y 0 40 Y Y 1 L N
 F0 "Y" -130 -100 70 H V R CNN
-F1 "AmbaSat-1_Satellite-Symbols_RESONATOR-4MHZSMD-4.5X2" 0 80 70 H V C BNN
+F1 "RESONATOR-4MHZSMD-4.5X2" 0 80 70 H V C BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -297,11 +297,11 @@ X 3 3 100 0 0 L 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_RFM95
+# RFM95
 #
-DEF AmbaSat-1_Satellite-Symbols_RFM95 ~ 0 40 Y Y 1 L N
+DEF RFM95 ~ 0 40 Y Y 1 L N
 F0 "" 0 0 50 H I C CNN
-F1 "AmbaSat-1_Satellite-Symbols_RFM95" 0 0 50 H I C CNN
+F1 "RFM95" 0 0 50 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -327,11 +327,11 @@ X VCC VDD 0 700 100 D 0 50 1 0 W
 ENDDRAW
 ENDDEF
 #
-# AmbaSat-1_Satellite-Symbols_U.FL
+# U.FL
 #
-DEF AmbaSat-1_Satellite-Symbols_U.FL J 0 40 Y Y 1 L N
+DEF U.FL J 0 40 Y Y 1 L N
 F0 "J" -150 160 59 H V L BNN
-F1 "AmbaSat-1_Satellite-Symbols_U.FL" 0 0 50 H I C CNN
+F1 "U.FL" 0 0 50 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
