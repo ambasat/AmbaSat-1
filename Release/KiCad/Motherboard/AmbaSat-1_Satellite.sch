@@ -40,13 +40,9 @@ Wire Wire Line
 Connection ~ 2650 3050
 Connection ~ 2650 3150
 Wire Wire Line
-	7700 2800 7700 2850
-Wire Wire Line
 	4800 7100 4800 7250
 Wire Wire Line
 	5100 5100 5100 5450
-Wire Wire Line
-	9400 1900 9400 2100
 Text Label 5400 1750 0    70   ~ 0
 RESET
 Wire Wire Line
@@ -63,8 +59,8 @@ Wire Wire Line
 Text Label 2700 2250 0    70   ~ 0
 SS
 Wire Wire Line
-	7200 2000 6850 2000
-Text Label 6900 2000 0    70   ~ 0
+	7200 2300 6850 2300
+Text Label 6900 2300 0    70   ~ 0
 SS
 Text Label 3850 7050 0    70   ~ 0
 SS
@@ -73,8 +69,8 @@ Wire Wire Line
 Text Label 2700 2350 0    70   ~ 0
 MOSI
 Wire Wire Line
-	7200 2300 6850 2300
-Text Label 6900 2300 0    70   ~ 0
+	7200 2100 6850 2100
+Text Label 6900 2100 0    70   ~ 0
 MOSI
 Text Label 1800 6850 0    70   ~ 0
 MOSI
@@ -83,8 +79,8 @@ Wire Wire Line
 Text Label 2700 2450 0    70   ~ 0
 MISO
 Wire Wire Line
-	7200 2200 6850 2200
-Text Label 6900 2200 0    70   ~ 0
+	7200 2000 6850 2000
+Text Label 6900 2000 0    70   ~ 0
 MISO
 Text Label 1800 6750 0    70   ~ 0
 MISO
@@ -121,8 +117,8 @@ Wire Wire Line
 Text Label 4500 2150 0    70   ~ 0
 DIO0
 Wire Wire Line
-	7200 2500 6850 2500
-Text Label 6900 2500 0    70   ~ 0
+	8550 2100 8200 2100
+Text Label 8250 2100 0    70   ~ 0
 DIO0
 Text Label 3850 6950 0    70   ~ 0
 VIN
@@ -145,8 +141,8 @@ Wire Wire Line
 Text Label 4500 1150 0    70   ~ 0
 A0
 Wire Wire Line
-	7200 2600 6850 2600
-Text Label 6900 2600 0    70   ~ 0
+	8550 2000 8200 2000
+Text Label 8250 2000 0    70   ~ 0
 DIO1
 Wire Wire Line
 	4450 1350 4850 1350
@@ -157,8 +153,8 @@ Wire Wire Line
 Text Label 2700 2550 0    70   ~ 0
 SCK
 Wire Wire Line
-	7200 2100 6850 2100
-Text Label 6900 2100 0    70   ~ 0
+	7200 2200 6850 2200
+Text Label 6900 2200 0    70   ~ 0
 SCK
 Text Label 1800 6650 0    70   ~ 0
 SCK
@@ -310,38 +306,18 @@ F 3 "" H 9350 3800 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L AmbaSat-1_Satellite-Symbols:U.FL U.FL1
-U 1 1 C1A26F23
-P 8700 2200
-F 0 "U.FL1" H 8550 2360 59  0000 L BNN
-F 1 "U.FL" H 8700 2200 50  0001 C CNN
-F 2 "AmbaSat-1_Satellite:U.FL" H 8700 2200 50  0001 C CNN
-F 3 "" H 8700 2200 50  0001 C CNN
-	1    8700 2200
-	-1   0    0    1   
-$EndComp
-$Comp
 L AmbaSat-1_Satellite-Symbols:HEADER-1X1ROUND JP3
 U 1 1 8182258E
-P 8450 2000
-F 0 "JP3" V 8850 2000 59  0000 C CNN
-F 1 "HEADER-1X1ROUND" H 8200 1800 59  0001 L BNN
-F 2 "AmbaSat-1_Satellite:1X01_ROUND" H 8450 2000 50  0001 C CNN
-F 3 "" H 8450 2000 50  0001 C CNN
-	1    8450 2000
-	0    -1   -1   0   
+P 8500 2750
+F 0 "JP3" V 8900 2750 59  0000 C CNN
+F 1 "HEADER-1X1ROUND" H 8250 2550 59  0001 L BNN
+F 2 "AmbaSat-1_Satellite:1X01_ROUND" H 8500 2750 50  0001 C CNN
+F 3 "" H 8500 2750 50  0001 C CNN
+	1    8500 2750
+	0    1    1    0   
 $EndComp
 Text Notes 8900 7350 0    85   ~ 0
 © 2020 AmbaSat Ltd\nAuthors: John Mowbray, \nMartin Platt, Sudu Malli\nWeb: ambasat.com
-Wire Wire Line
-	8800 1900 8900 1900
-Wire Wire Line
-	8800 2000 8900 2000
-Wire Wire Line
-	8900 2000 8900 1900
-Connection ~ 8900 1900
-Wire Wire Line
-	8900 1900 9400 1900
 Wire Wire Line
 	2100 2750 2000 2750
 Wire Wire Line
@@ -406,15 +382,6 @@ Wire Wire Line
 Wire Wire Line
 	6100 5200 6100 5600
 Connection ~ 6100 5600
-Wire Wire Line
-	7700 1200 7700 1250
-Wire Wire Line
-	8200 2200 8450 2200
-Wire Wire Line
-	8450 2000 8450 2200
-Connection ~ 8450 2200
-Wire Wire Line
-	8450 2200 8500 2200
 $Comp
 L AmbaSat-1_Satellite-Symbols:C C4
 U 1 1 674C1B16
@@ -533,12 +500,12 @@ $EndComp
 $Comp
 L AmbaSat-1_Satellite-Symbols:3V3 #PWR0103
 U 1 1 6191BAA5
-P 7700 1200
-F 0 "#PWR0103" H 7700 1375 20  0001 C CNN
-F 1 "3V3" H 7703 1353 50  0000 C CNN
-F 2 "" H 7700 1200 60  0001 C CNN
-F 3 "" H 7700 1200 60  0001 C CNN
-	1    7700 1200
+P 9150 1850
+F 0 "#PWR0103" H 9150 2025 20  0001 C CNN
+F 1 "3V3" H 9153 2003 50  0000 C CNN
+F 2 "" H 9150 1850 60  0001 C CNN
+F 3 "" H 9150 1850 60  0001 C CNN
+	1    9150 1850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -654,23 +621,12 @@ $EndComp
 $Comp
 L AmbaSat-1_Satellite-Symbols:GND #PWR0115
 U 1 1 61973FC1
-P 7700 2850
-F 0 "#PWR0115" H 7700 2600 50  0001 C CNN
-F 1 "GND" H 7705 2677 50  0000 C CNN
-F 2 "" H 7700 2850 50  0001 C CNN
-F 3 "" H 7700 2850 50  0001 C CNN
-	1    7700 2850
-	1    0    0    -1  
-$EndComp
-$Comp
-L AmbaSat-1_Satellite-Symbols:GND #PWR0116
-U 1 1 61978A12
-P 9400 2100
-F 0 "#PWR0116" H 9400 1850 50  0001 C CNN
-F 1 "GND" H 9405 1927 50  0000 C CNN
-F 2 "" H 9400 2100 50  0001 C CNN
-F 3 "" H 9400 2100 50  0001 C CNN
-	1    9400 2100
+P 9150 2350
+F 0 "#PWR0115" H 9150 2100 50  0001 C CNN
+F 1 "GND" H 9155 2177 50  0000 C CNN
+F 2 "" H 9150 2350 50  0001 C CNN
+F 3 "" H 9150 2350 50  0001 C CNN
+	1    9150 2350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -861,37 +817,28 @@ Wire Wire Line
 $Comp
 L AmbaSat-1_Satellite-Symbols:C C2
 U 1 1 61A12A87
-P 6850 1450
-F 0 "C2" H 6900 1500 59  0000 L BNN
-F 1 "10uF" H 6900 1300 59  0000 L BNN
-F 2 "AmbaSat-1_Satellite:C0805K" H 6850 1450 50  0001 C CNN
-F 3 "" H 6850 1450 50  0001 C CNN
-	1    6850 1450
+P 9150 2100
+F 0 "C2" H 9200 2150 59  0000 L BNN
+F 1 "10uF" H 9200 1950 59  0000 L BNN
+F 2 "AmbaSat-1_Satellite:C0805K" H 9150 2100 50  0001 C CNN
+F 3 "" H 9150 2100 50  0001 C CNN
+	1    9150 2100
 	1    0    0    -1  
 $EndComp
 $Comp
 L AmbaSat-1_Satellite-Symbols:GND #PWR01
 U 1 1 61A19F5B
-P 6850 1650
-F 0 "#PWR01" H 6850 1400 50  0001 C CNN
-F 1 "GND" H 6855 1477 50  0000 C CNN
-F 2 "" H 6850 1650 50  0001 C CNN
-F 3 "" H 6850 1650 50  0001 C CNN
-	1    6850 1650
+P 6650 2700
+F 0 "#PWR01" H 6650 2450 50  0001 C CNN
+F 1 "GND" H 6655 2527 50  0000 C CNN
+F 2 "" H 6650 2700 50  0001 C CNN
+F 3 "" H 6650 2700 50  0001 C CNN
+	1    6650 2700
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6850 1300 6850 1250
-Wire Wire Line
-	6850 1250 7700 1250
-Connection ~ 7700 1250
-Wire Wire Line
-	7700 1250 7700 1500
-Wire Wire Line
-	6850 1600 6850 1650
 NoConn ~ 7200 2400
-NoConn ~ 8200 2400
-NoConn ~ 8200 2500
+NoConn ~ 8200 1900
+NoConn ~ 7200 2500
 $Comp
 L AmbaSat-1_Satellite-Symbols:LED D1
 U 1 1 C78C3FBD
@@ -917,12 +864,12 @@ $EndComp
 $Comp
 L AmbaSat-1_Satellite-Symbols:RFM95 U4
 U 1 1 D235792D
-P 7700 2200
-F 0 "U4" H 7350 2850 59  0000 C CNN
-F 1 "RFM95" H 7700 2200 50  0001 C CNN
-F 2 "AmbaSat-1_Satellite:RFM95" H 7700 2200 50  0001 C CNN
-F 3 "" H 7700 2200 50  0001 C CNN
-	1    7700 2200
+P 7200 1900
+F 0 "U4" H 7350 2150 59  0000 C CNN
+F 1 "RFM95" H 7200 1900 50  0001 C CNN
+F 2 "AmbaSat-1_Satellite:RFM95" H 7200 1900 50  0001 C CNN
+F 3 "" H 7200 1900 50  0001 C CNN
+	1    7200 1900
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1033,4 +980,79 @@ NoConn ~ 4450 2450
 NoConn ~ 4450 2350
 NoConn ~ 4450 1450
 NoConn ~ 4450 1250
+Wire Wire Line
+	8300 2700 8500 2700
+Wire Wire Line
+	8500 2750 8500 2700
+Connection ~ 8500 2700
+Wire Wire Line
+	8500 2700 8550 2700
+Wire Wire Line
+	9150 2250 9150 2300
+Wire Wire Line
+	8200 2200 8700 2200
+Wire Wire Line
+	8200 2500 8800 2500
+Wire Wire Line
+	8800 2500 8800 2300
+Connection ~ 9150 2300
+Wire Wire Line
+	9150 2300 9150 2350
+Wire Wire Line
+	7200 1900 6650 1900
+Wire Wire Line
+	6650 1900 6650 2600
+Wire Wire Line
+	6650 2600 7200 2600
+Wire Wire Line
+	6650 2700 6650 2600
+Connection ~ 6650 2600
+Connection ~ 8950 3000
+Wire Wire Line
+	8950 3000 8950 3050
+$Comp
+L AmbaSat-1_Satellite-Symbols:GND #PWR0116
+U 1 1 61978A12
+P 8950 3050
+F 0 "#PWR0116" H 8950 2800 50  0001 C CNN
+F 1 "GND" H 8955 2877 50  0000 C CNN
+F 2 "" H 8950 3050 50  0001 C CNN
+F 3 "" H 8950 3050 50  0001 C CNN
+	1    8950 3050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8950 3000 8950 2900
+Wire Wire Line
+	8850 3000 8950 3000
+Wire Wire Line
+	8850 2900 8950 2900
+$Comp
+L AmbaSat-1_Satellite-Symbols:U.FL U.FL1
+U 1 1 C1A26F23
+P 8750 2700
+F 0 "U.FL1" H 8350 2700 59  0000 L CNN
+F 1 "U.FL" H 8750 2700 50  0001 C CNN
+F 2 "AmbaSat-1_Satellite:U.FL" H 8750 2700 50  0001 C CNN
+F 3 "" H 8750 2700 50  0001 C CNN
+	1    8750 2700
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	8200 2600 8300 2600
+Wire Wire Line
+	8300 2600 8300 2700
+Wire Wire Line
+	9150 1850 9150 1900
+Wire Wire Line
+	8800 2300 9150 2300
+Wire Wire Line
+	8700 2200 8700 1900
+Wire Wire Line
+	8700 1900 9150 1900
+Connection ~ 9150 1900
+Wire Wire Line
+	9150 1900 9150 1950
+NoConn ~ 8200 2300
+NoConn ~ 8200 2400
 $EndSCHEMATC

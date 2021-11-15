@@ -937,10 +937,10 @@ F 3 "" H 3750 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L AmbaSat-1_Satellite-Symbols:C C?
+L AmbaSat-1_Satellite-Symbols:C C13
 U 1 1 61A7E774
 P 1500 1350
-F 0 "C?" H 1550 1400 59  0000 L BNN
+F 0 "C13" H 1550 1400 59  0000 L BNN
 F 1 "10uF" H 1550 1200 59  0000 L BNN
 F 2 "AmbaSat-1_Satellite:C0805K" H 1500 1350 50  0001 C CNN
 F 3 "" H 1500 1350 50  0001 C CNN
@@ -948,10 +948,10 @@ F 3 "" H 1500 1350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L AmbaSat-1_Satellite-Symbols:C C?
+L AmbaSat-1_Satellite-Symbols:C C14
 U 1 1 61A7E77E
 P 1950 1350
-F 0 "C?" H 2000 1400 59  0000 L BNN
+F 0 "C14" H 2000 1400 59  0000 L BNN
 F 1 "100nF" H 2000 1200 59  0000 L BNN
 F 2 "AmbaSat-1_Satellite:C0805K" H 1950 1350 50  0001 C CNN
 F 3 "" H 1950 1350 50  0001 C CNN
@@ -959,10 +959,10 @@ F 3 "" H 1950 1350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L AmbaSat-1_Satellite-Symbols:C C?
+L AmbaSat-1_Satellite-Symbols:C C15
 U 1 1 61A869D3
 P 2400 1350
-F 0 "C?" H 2450 1400 59  0000 L BNN
+F 0 "C15" H 2450 1400 59  0000 L BNN
 F 1 "100nF" H 2450 1200 59  0000 L BNN
 F 2 "AmbaSat-1_Satellite:C0805K" H 2400 1350 50  0001 C CNN
 F 3 "" H 2400 1350 50  0001 C CNN
@@ -970,10 +970,10 @@ F 3 "" H 2400 1350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L AmbaSat-1_Satellite-Symbols:GND #PWR?
+L AmbaSat-1_Satellite-Symbols:GND #PWR02
 U 1 1 61A94F3F
 P 1500 1600
-F 0 "#PWR?" H 1500 1350 50  0001 C CNN
+F 0 "#PWR02" H 1500 1350 50  0001 C CNN
 F 1 "GND" H 1505 1427 50  0000 C CNN
 F 2 "" H 1500 1600 50  0001 C CNN
 F 3 "" H 1500 1600 50  0001 C CNN
