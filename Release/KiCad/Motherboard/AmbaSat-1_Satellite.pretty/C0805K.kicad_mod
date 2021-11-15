@@ -1,5 +1,5 @@
-(module C0805K (layer F.Cu) (tedit 0)
-  (descr "<b>Ceramic Chip Capacitor KEMET 0805 reflow solder</b><p>\nMetric Code Size 2012")
+(module C0805K (layer F.Cu) (tedit 6191BC60)
+  (attr smd)
   (fp_text reference C9 (at 1.9 0.425) (layer F.SilkS)
     (effects (font (size 0.77216 0.77216) (thickness 0.123545)) (justify left bottom))
   )

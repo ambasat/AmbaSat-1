@@ -1,4 +1,4 @@
-684501101082751
+699234808966377
 AmbaSat-1_Satellite
 1X01_ROUND
 
@@ -8,54 +8,74 @@ AmbaSat-1_Satellite
 1
 AmbaSat-1_Satellite
 1X06
-<b>PIN HEADER</b>
+PIN HEADER
 
 0
 6
 6
 AmbaSat-1_Satellite
 1X08
-<b>PIN HEADER</b>
+PIN HEADER
 
 0
 8
 8
 AmbaSat-1_Satellite
 C0805K
-<b>Ceramic Chip Capacitor KEMET 0805 reflow solder</b><p>
-Metric Code Size 2012
+
+
+0
+2
+2
+AmbaSat-1_Satellite
+CAPC200X125X95L50M
+Capacitor, Chip; 2.00 mm L X 1.25 mm W X 0.95 mm H body
 
 0
 2
 2
 AmbaSat-1_Satellite
 CHIP-LED0805
-<b>Hyper CHIPLED Hyper-Bright LED</b><p>
-LB R99A<br>
-Source: http://www.osram.convergy.de/ ... lb_r99a.pdf
+
+
+0
+2
+2
+AmbaSat-1_Satellite
+LEDC200X125X85L40M
+LED, Chip; 2.00 mm L X 1.25 mm W X 0.85 mm H body
 
 0
 2
 2
 AmbaSat-1_Satellite
 LGA24-8X4
-<h3>24-pin LGA 8x4 pins</h3>
-<p>Footprint: 3.5 x 3mm</p>
-<p>Used by:
-<ul><li>LSM9DS1</li></ul></p>
-<p><em>Unproven</em></p>
+
 
 0
 24
 24
 AmbaSat-1_Satellite
 M0805
-<b>RESISTOR</b><p>
-MELF 0.10 W
+
 
 0
 2
 2
+AmbaSat-1_Satellite
+PQFN24P43_300X350X102L35X23M
+Pullback Quad Flat No-Lead (PQFN), 0.43 mm pitch; rect., 4 pin X 8 pin, 3.00 mm L X 3.50 mm W X 1.027 mm H body
+
+0
+24
+24
+AmbaSat-1_Satellite
+QFP32P80_900X900X120L60X37M
+Quad Flat Pack (QFP), 0.80 mm pitch; square, 8 pin X 8 pin, 7.00 mm L X 7.00 mm W X 1.20 mm H body
+
+0
+32
+32
 AmbaSat-1_Satellite
 QFP80P900X900X120-32N
 
@@ -64,9 +84,15 @@ QFP80P900X900X120-32N
 32
 32
 AmbaSat-1_Satellite
+RESC200X125X60L35M
+Resistor, Chip; 2.00 mm L X 1.25 mm W X 0.60 mm H body
+
+0
+2
+2
+AmbaSat-1_Satellite
 RESONATOR-SMD-4.5X2.0
-<h3>4.5x2.0mm 3-Pin SMD Resonator</h3>
-<p><a href="http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p16e.ashx">Example datasheet</a> (CSTCR_G15L)</p>
+
 
 0
 3
@@ -79,24 +105,22 @@ RFM95
 16
 16
 AmbaSat-1_Satellite
+SOT23-5P95_280X145L45X40M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 5 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+5
+5
+AmbaSat-1_Satellite
 SOT25
-<b>Small Outline Transistor</b><p>
-TSC [Taiwan Semiconductor Company, Ltd]<br>
-Source: http://www.taiwansemi.com .. 5205_0409c.pdf
+
 
 0
 5
 5
 AmbaSat-1_Satellite
 U.FL
-<h3>U.FL SMD Antenna Connector</h3>
-<p>Specifications:
-<li>Area: 3.0mm x 2.5mm</li>
-</ul></p>
-<p><a href=”http://cdn.sparkfun.com/datasheets/Wireless/Antennas/RF-001001.pdf”>Datasheet referenced for footprint</a></p>
-<p>Example device(s):
-<ul><li>U.FL</li>
-</ul></p>
+
 
 0
 4
@@ -2349,6 +2373,20 @@ Connector, Jack Vertical Receptacle; 4 pin, 2.60 mm L X 2.60 mm W X 1.36 mm H bo
 4
 4
 rt_pcbl_footprints
+MURATA_CSTCR4M00G53-R0
+Resonator, 0.40 mm pitch, 3 pin; 4.50 mm L X 2.00 mm W X 1.20 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+MURATA_CSTCR6M00G53-R0
+Resonator; 3 pin, 4.50 mm L X 2.00 mm W X 1.20 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
 NXP_SOT1197-1
 Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 11 pin, 2.70 mm L X 2.70 mm W X 0.50 mm H body
 
@@ -2495,6 +2533,13 @@ Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 16 pin X 16 pin, 9.00 m
 0
 72
 65
+rt_pcbl_footprints
+QFP32P80_900X900X120L60X37M
+Quad Flat Pack (QFP), 0.80 mm pitch; square, 8 pin X 8 pin, 7.00 mm L X 7.00 mm W X 1.20 mm H body
+
+0
+32
+32
 rt_pcbl_footprints
 QFP64P50_1200X1200X160L60X22
 Quad Flat Pack (QFP), 0.50 mm pitch; square, 16 pin X 16 pin, 10.00 mm L X 10.00 mm W X 1.60 mm H body

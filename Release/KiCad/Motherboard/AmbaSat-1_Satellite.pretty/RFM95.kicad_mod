@@ -1,4 +1,5 @@
-(module RFM95 (layer F.Cu) (tedit 6191B1AA)
+(module RFM95 (layer F.Cu) (tedit 6191CE8B)
+  (attr smd)
   (fp_text reference RFM95 (at -3.23 -10.08) (layer F.SilkS) hide
     (effects (font (size 1.2065 1.2065) (thickness 0.2032)) (justify right top))
   )
@@ -30,6 +31,10 @@
   (fp_text user - (at -8.981 -6.299) (layer F.SilkS)
     (effects (font (size 1.2065 1.2065) (thickness 0.3175)) (justify left bottom))
   )
+  (fp_line (start -12.065 -8.89) (end -12.065 8.89) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -12.065 8.89) (end 7.62 8.89) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 7.62 8.89) (end 7.62 -8.89) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 7.62 -8.89) (end -12.065 -8.89) (layer F.CrtYd) (width 0.05))
   (pad 9 smd rect (at 5.7775 7) (size 2 1.27) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.0508))
   (pad 14 smd rect (at 5.7775 -3) (size 2 1.27) (layers F.Cu F.Paste F.Mask)
