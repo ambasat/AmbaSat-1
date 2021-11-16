@@ -23,11 +23,10 @@ Yes, all AmbaSat-1 software will be distributed under GNU GPL, a widely-used fre
 From https://github.com/ambasat/AmbaSat-1/blob/master/README.md (retreieved November 15, 2021):  
 
 *AmbaSat is Open Source We’ve learned a lot from the open source community. Electronics, hardware, coding, software libraries and much more.
+So, we want to give our work back to the maker and open source community.*
 
-So, we want to give our work back to the maker and open source community.
+*The AmbaSat satellite software is fully open-source and available for full download. The AmbaSat satellite hardware is also totally open source and the schematics and Bill of Materials (BoM) are available for download.*
 
-The AmbaSat satellite software is fully open-source and available for full download. The AmbaSat satellite hardware is also totally open source and the schematics and Bill of Materials (BoM) are available for download.
-
-What this means is that you can fully use all the above and create your own version of the AmbaSat satellite. Go ahead and use the schematic and source code and create your very own space satellite.*
+*What this means is that you can fully use all the above and create your own version of the AmbaSat satellite. Go ahead and use the schematic and source code and create your very own space satellite.*
 
 **The KiCad conversion work is licensed under the CERN-OHL-S license.  See the LICENSE file for details.**
