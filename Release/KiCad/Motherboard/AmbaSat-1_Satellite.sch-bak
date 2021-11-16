@@ -192,7 +192,7 @@ U 1 1 E380C306
 P 5100 4950
 F 0 "C5" H 5150 5000 59  0000 L BNN
 F 1 "10uF" H 5150 4800 59  0000 L BNN
-F 2 "AmbaSat-1_Satellite:CAPC200X125X95L50M" H 5100 4950 50  0001 C CNN
+F 2 "AmbaSat-1_Satellite:CAPC160X80X90L40M" H 5100 4950 50  0001 C CNN
 F 3 "" H 5100 4950 50  0001 C CNN
 	1    5100 4950
 	1    0    0    -1  
@@ -214,7 +214,7 @@ U 1 1 CFDC1CA0
 P 6100 5050
 F 0 "C6" H 6150 5100 59  0000 L BNN
 F 1 "10uF" H 6150 4900 59  0000 L BNN
-F 2 "AmbaSat-1_Satellite:CAPC200X125X95L50M" H 6100 5050 50  0001 C CNN
+F 2 "AmbaSat-1_Satellite:CAPC160X80X90L40M" H 6100 5050 50  0001 C CNN
 F 3 "" H 6100 5050 50  0001 C CNN
 	1    6100 5050
 	1    0    0    -1  
@@ -296,8 +296,8 @@ F 3 "" H 8500 2750 50  0001 C CNN
 	1    8500 2750
 	0    1    1    0   
 $EndComp
-Text Notes 8900 7350 0    85   ~ 0
-© 2020 AmbaSat Ltd\nAuthors: John Mowbray, \nMartin Platt, Sudu Malli\nWeb: ambasat.com
+Text Notes 8800 7100 0    39   ~ 0
+Derived from https://github.com/ambasat/AmbaSat-1\n© 2020 AmbaSat Ltd\nAuthors: John Mowbray, \nMartin Platt, Sudu Malli\nWeb: ambasat.com
 Wire Wire Line
 	2100 2750 2000 2750
 Wire Wire Line
@@ -368,7 +368,7 @@ U 1 1 674C1B16
 P 2300 4950
 F 0 "C4" H 2350 5000 59  0000 L BNN
 F 1 "10uF" H 2350 4800 59  0000 L BNN
-F 2 "AmbaSat-1_Satellite:CAPC200X125X95L50M" H 2300 4950 50  0001 C CNN
+F 2 "AmbaSat-1_Satellite:CAPC160X80X90L40M" H 2300 4950 50  0001 C CNN
 F 3 "" H 2300 4950 50  0001 C CNN
 	1    2300 4950
 	1    0    0    -1  
@@ -847,7 +847,7 @@ U 1 1 61A7E774
 P 1500 1350
 F 0 "C2" H 1550 1400 59  0000 L BNN
 F 1 "10uF" H 1550 1200 59  0000 L BNN
-F 2 "AmbaSat-1_Satellite:CAPC200X125X95L50M" H 1500 1350 50  0001 C CNN
+F 2 "AmbaSat-1_Satellite:CAPC160X80X90L40M" H 1500 1350 50  0001 C CNN
 F 3 "" H 1500 1350 50  0001 C CNN
 	1    1500 1350
 	1    0    0    -1  
@@ -1022,4 +1022,6 @@ Wire Wire Line
 	5250 1750 5250 1800
 Wire Wire Line
 	4600 6650 5350 6650
+Text Notes 6300 7000 0    39   ~ 0
+This version © 2021 and licensed under CERN-OHL-S v2\nAuthor: Jay Francis\nSource: https://github.com/robojay/AmbaSat-1/tree/kicad_conversion
 $EndSCHEMATC

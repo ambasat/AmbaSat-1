@@ -7,7 +7,7 @@ Sheet 1 1
 Title "AmbaSat-1"
 Date ""
 Rev ""
-Comp "AmbaSat Ltd"
+Comp ""
 Comment1 "Sprite class satellite (ChipSat/Femtosatellite)"
 Comment2 ""
 Comment3 ""
@@ -296,8 +296,8 @@ F 3 "" H 8500 2750 50  0001 C CNN
 	1    8500 2750
 	0    1    1    0   
 $EndComp
-Text Notes 8900 7350 0    85   ~ 0
-© 2020 AmbaSat Ltd\nAuthors: John Mowbray, \nMartin Platt, Sudu Malli\nWeb: ambasat.com
+Text Notes 8800 7100 0    39   ~ 0
+Derived from https://github.com/ambasat/AmbaSat-1\n© 2020 AmbaSat Ltd\nAuthors: John Mowbray, \nMartin Platt, Sudu Malli\nWeb: ambasat.com
 Wire Wire Line
 	2100 2750 2000 2750
 Wire Wire Line
@@ -1022,4 +1022,6 @@ Wire Wire Line
 	5250 1750 5250 1800
 Wire Wire Line
 	4600 6650 5350 6650
+Text Notes 6300 7000 0    39   ~ 0
+This version © 2021 and licensed under CERN-OHL-S v2\nAuthor: Jay Francis\nSource: https://github.com/robojay/AmbaSat-1/tree/kicad_conversion
 $EndSCHEMATC
