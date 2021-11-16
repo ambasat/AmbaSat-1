@@ -1,21 +1,21 @@
 ***
 
-RFM95_LoRa_v15.step
-Source: https://grabcad.com/library/rfm95-lora-radio-module-1
-u_fl.step
-Source: https://grabcad.com/library/u-fl-antenna-connector-523-a-1jb-1
+RFM95_LoRa_v15.step  
+Source: https://grabcad.com/library/rfm95-lora-radio-module-1  
+u_fl.step  
+Source: https://grabcad.com/library/u-fl-antenna-connector-523-a-1jb-1  
 
 Used in accordance with https://grabcad.com/terms (November 16, 2021)
 	each user of the Site a worldwide, non-exclusive, royalty-free, fully-paid, perpetual, irrevocable, non-sublicensable, non-assignable, and non-transferable license to use, reproduce, copy, modify, adapt, arrange, translate, and create derivative works of such User Submissions for such user's own benefit and non-commercial, internal use (the "Cross License").
 
 ***
 
-SOT23-5P95_280X145L45X40M.STEP
-CAPC160X80X90L40M.STEP
-LEDC200X125X85L40M.STEP
-PQFN24P43_300X350X102L35X23M.STEP
-QFP32P80_900X900X120L60X37M.STEP
-RESC160X80X55L25M.STEP
+SOT23-5P95_280X145L45X40M.STEP  
+CAPC160X80X90L40M.STEP  
+LEDC200X125X85L40M.STEP  
+PQFN24P43_300X350X102L35X23M.STEP  
+QFP32P80_900X900X120L60X37M.STEP  
+RESC160X80X55L25M.STEP  
 Source: Licensed copy of PCB Libraries Footprint Expert 2021 (https://www.pcblibraries.com/)
 
 Used in accordance with the included EULA as part of a PCB design project
@@ -23,8 +23,8 @@ Used in accordance with the included EULA as part of a PCB design project
 
 ***
 
-CSTCR4M00G53Z-R0.step
-Source: https://www.murata.com/en-us/products/productdetail?partno=CSTCR4M00G53Z-R0 (November 16, 2021)
+CSTCR4M00G53Z-R0.step  
+Source: https://www.murata.com/en-us/products/productdetail?partno=CSTCR4M00G53Z-R0 (November 16, 2021)  
 
 Service provided by SnapEDA.  Used in accordance with https://www.snapeda.com/about/terms/ (November 16, 2021)
 	4 USE OF DESIGN FILES LICENSE
