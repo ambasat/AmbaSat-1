@@ -23,7 +23,7 @@ RESC160X80X55L25M.kicad_mod
 SOT23-5P95_280X145L45X40M.kicad_mod  
 Source: Licensed copy of PCB Libraries Footprint Expert 2021 (https://www.pcblibraries.com/)  
 
-Used in accordance with the included EULA as part of a PCB design project
-	FPX data files and Software Product output data is not to be sold or re-distributed (other than with a PCB design project), unless you obtain a Distribution of Content (DoC) License from PCB Libraries.
+Used in accordance with the included EULA as part of a PCB design project  
+    FPX data files and Software Product output data is not to be sold or re-distributed (other than with a PCB design project), unless you obtain a Distribution of Content (DoC) License from PCB Libraries.
 
 ***
