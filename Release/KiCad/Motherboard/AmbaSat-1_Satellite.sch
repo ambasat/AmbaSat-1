@@ -5,8 +5,8 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "AmbaSat-1"
-Date ""
-Rev ""
+Date "2021-11-16"
+Rev "KiCad_1.0"
 Comp ""
 Comment1 "Sprite class satellite (ChipSat/Femtosatellite)"
 Comment2 ""
