@@ -1,4 +1,4 @@
-704145939635637
+691051196266206
 AmbaSat-1_Satellite
 1X01_ROUND
 
@@ -21,13 +21,6 @@ PIN HEADER
 8
 8
 AmbaSat-1_Satellite
-C0805K
-
-
-0
-2
-2
-AmbaSat-1_Satellite
 CAPC160X80X90L40M
 Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.90 mm H body
 
@@ -35,36 +28,8 @@ Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.90 mm H body
 2
 2
 AmbaSat-1_Satellite
-CAPC200X125X95L50M
-Capacitor, Chip; 2.00 mm L X 1.25 mm W X 0.95 mm H body
-
-0
-2
-2
-AmbaSat-1_Satellite
-CHIP-LED0805
-
-
-0
-2
-2
-AmbaSat-1_Satellite
 LEDC200X125X85L40M
 LED, Chip; 2.00 mm L X 1.25 mm W X 0.85 mm H body
-
-0
-2
-2
-AmbaSat-1_Satellite
-LGA24-8X4
-
-
-0
-24
-24
-AmbaSat-1_Satellite
-M0805
-
 
 0
 2
@@ -84,22 +49,8 @@ Quad Flat Pack (QFP), 0.80 mm pitch; square, 8 pin X 8 pin, 7.00 mm L X 7.00 mm 
 32
 32
 AmbaSat-1_Satellite
-QFP80P900X900X120-32N
-
-
-0
-32
-32
-AmbaSat-1_Satellite
 RESC160X80X55L25M
 Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body
-
-0
-2
-2
-AmbaSat-1_Satellite
-RESC200X125X60L35M
-Resistor, Chip; 2.00 mm L X 1.25 mm W X 0.60 mm H body
 
 0
 2
@@ -121,13 +72,6 @@ RFM95
 AmbaSat-1_Satellite
 SOT23-5P95_280X145L45X40M
 Small Outline Transistor (SOT23), 0.95 mm pitch; 5 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
-
-0
-5
-5
-AmbaSat-1_Satellite
-SOT25
-
 
 0
 5
