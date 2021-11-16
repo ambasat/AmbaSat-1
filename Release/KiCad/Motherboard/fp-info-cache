@@ -1,4 +1,4 @@
-699234808966377
+704145939635637
 AmbaSat-1_Satellite
 1X01_ROUND
 
@@ -23,6 +23,13 @@ PIN HEADER
 AmbaSat-1_Satellite
 C0805K
 
+
+0
+2
+2
+AmbaSat-1_Satellite
+CAPC160X80X90L40M
+Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.90 mm H body
 
 0
 2
@@ -84,6 +91,13 @@ QFP80P900X900X120-32N
 32
 32
 AmbaSat-1_Satellite
+RESC160X80X55L25M
+Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body
+
+0
+2
+2
+AmbaSat-1_Satellite
 RESC200X125X60L35M
 Resistor, Chip; 2.00 mm L X 1.25 mm W X 0.60 mm H body
 
@@ -118,6 +132,13 @@ SOT25
 0
 5
 5
+AmbaSat-1_Satellite
+TESTPOINT_TH
+Through hole pin header
+pin header
+0
+1
+1
 AmbaSat-1_Satellite
 U.FL
 
