@@ -20,7 +20,7 @@ From https://ambasat.com/ambasat-2/faq/ (retrieved November 15, 2021):
 *Q. Is this Open Hardware/Software?  
 Yes, all AmbaSat-1 software will be distributed under GNU GPL, a widely-used free software license, which guarantees end users the freedom to run, study, share and modify the software. The AmbaSat-1 hardware is free hardware design, meaning hardware that users are free to use and to copy and redistribute with or without changes*
 
-From https://github.com/ambasat/AmbaSat-1/blob/master/README.md (retreieved November 15, 2021):  
+From https://github.com/ambasat/AmbaSat-1/blob/master/README.md (retrieved November 15, 2021):  
 
 *AmbaSat is Open Source We’ve learned a lot from the open source community. Electronics, hardware, coding, software libraries and much more.
 So, we want to give our work back to the maker and open source community.*
