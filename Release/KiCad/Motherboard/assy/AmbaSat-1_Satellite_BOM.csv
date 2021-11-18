@@ -1,5 +1,6 @@
 "Id";"Designator";"Package";"Quantity";"Designation";"Manufacturer";"Part Number";
-1;"U4";"RFM95";1;"RFM96W 433MHz Band Low Power Long Range Transceiver Module SMD";"HopeRF";"RFM96W-433S2";
+">> AmbaSat ground station compatible module -->> 1";"U4";"RFM95";1;"RFM95W 915MHz Band Low Power Long Range Transceiver Module SMD";"HopeRF";"RFM95W-915S2";
+">> Amateur Radio 70cm band module -->> 1";"U4";"RFM95";1;"RFM96W 433MHz Band Low Power Long Range Transceiver Module SMD";"HopeRF";"RFM96W-433S2";
 2;"P1";"U.FL";1;"U.FL (UMCC) Receptacle Male Pin 50 Ohm SMD";"TE Connectivity";"2337019-1";
 3;"U2";"QFP32P80_900X900X120L60X37M";1;"ATMEGA328P-AU AVR 20MHz 32K Flash 8K RAM TQFP32";"Microchip";"ATMEGA328P-AU";
 4;"Y1";"RESONATOR-SMD-4.5X2.0";1;"4MHz 15pF Ceramic Resonator SMD";"Murata";"CSTCR4M00G53Z-R0";
