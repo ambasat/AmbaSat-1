@@ -110,6 +110,15 @@ You should see something like this:
 
 ![RF Client and Server](media/rf_client_server.png?raw=true "RF Client and Server")
 
+### Other Libraries
+
+The [RadioLib library](https://github.com/jgromes/RadioLib) has been used to see if we need other pins/capabilities hooked up on the AmbaSat-1 KiCad boards.  
+
+A couple of observations...
+
+1. This library takes a reasonable amount of code space.  Running the AX25_Transmit_AFSK example uses 21684 bytes of flash.  The ATmega328P only has 32K total of flash available.
+2. The example code for AX25_Transmit_AFSK does not work using the 4MHz external resonator.  It does work using the 8MHz internal oscillator.  Work == decode packets with DireWolf received by an AirSpy.
+
 ## Arduino and Adafruit RFM96 Breakout
 
 Here are some details to wire up an Arduino with the [Adafruit RFM96 module](https://www.adafruit.com/product/3073).  If you use an ATmega328P based Arduino, you pretty much have a breadboard AmbaSat-1, except by default it will be running at 16MHz instead of 4MHz.
@@ -125,3 +134,4 @@ D12          MISO
 D11          MOSI
 D10          CS
 D2           G0
+
