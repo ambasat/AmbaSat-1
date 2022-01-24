@@ -1,6 +1,6 @@
 # AmbaSat-1 KiCad
 
-![AmbaSat-1 Motherboard PCB](AmbaSat-1_Satellite.jpg?raw=true "AmbaSat-1 Motherboard PCB")
+![AmbaSat-1 Motherboard PCB](media/AmbaSat-1_Satellite.jpg?raw=true "AmbaSat-1 Motherboard PCB")
 
 ## Summary
 
