@@ -18,7 +18,7 @@ For those somewhere in the middle, consider it a learning exercise.
 
 The AmbaSat-1 is a "generic" ATmega328 processor.  It can be programmed using Arduino sketches and libraries.
 
-If you received an AmbaSat-1 Kicad from ORI, it has been programmed with the MiniCore version of the OptiBoot Bootloader.
+If you received an AmbaSat-1 KiCad from ORI, it has been programmed with the MiniCore version of the OptiBoot Bootloader.
 
 *If you are starting with a blank ATmega328, you will likely need to program a bootloader (this is outside the current instruction scope... basically you need an ISP programmer, hook up the correct pins, and program the bootloader).*
 
@@ -58,7 +58,7 @@ ORI AmbaSat-1 KiCad boards have been pre-loaded with the standard Blink sketch w
 
 To test:
 
-**Make sure you have an antenna connected**
+**!!!Make sure you have an antenna connected!!!**
 
 Connect the USB to Serial adapter to the AmbaSat such that the signals match (DTR to DTR, RXI to TX, TXO to RX, 3V3 to VIN, CTS to SS, GND to GND). 
 
@@ -85,7 +85,7 @@ PC1         D15 / A1          DIO2
 PB1         D9                (none - LED)
 ```
 
-**PC1/D15/A1/DIO2 is added as a rework wire through a 1K ohm resistor.  The DIO2 pin on the RFM96 is bidirectional in some modes, and allows direct modulation of the RF signal.**
+*PC1/D15/A1/DIO2 is added as a rework wire through a 1K ohm resistor.  The DIO2 pin on the RFM96 is bidirectional in some modes, and allows direct modulation of the RF signal.*
 
 ### Programming Blink 
 
@@ -112,7 +112,7 @@ You should see something like this:
 
 ## Arduino and Adafruit RFM96 Breakout
 
-Here are some details to wire up an Arduino with the [Adafruit RFM96 module](https://www.adafruit.com/product/3073).  If you use an ATmega328P based Arduino, you pretty much have a breadboard AmbaSat, except by default it will be running at 16MHz instead of 4MHz.
+Here are some details to wire up an Arduino with the [Adafruit RFM96 module](https://www.adafruit.com/product/3073).  If you use an ATmega328P based Arduino, you pretty much have a breadboard AmbaSat-1, except by default it will be running at 16MHz instead of 4MHz.
 
 ```
 Arduino Pin  RFM96 Module
