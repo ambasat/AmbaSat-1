@@ -1,5 +1,7 @@
 # AmbaSat-1
 
+[Learn more at ambasat.com](https://ambasat.com)
+
 <img src="https://ambasat.com/wp-content/uploads/2019/04/ambasat-1-pcb-with-components-cropped-1024x693.jpg">
 
 AmbaSat-1 is tiny spacecraft kit that you assemble and code yourself.
