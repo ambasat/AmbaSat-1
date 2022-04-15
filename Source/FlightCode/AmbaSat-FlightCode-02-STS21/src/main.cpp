@@ -2,7 +2,7 @@
 * AmbaSat-1 
 * Filename: main.cpp
 * AmbaSat-1 Flight Code for Sensor 02 - STS21: Temperature
-* 16th January 2022
+* 15th April 2022
 * Authors: Martin Platt, James Vonteb 
 * with contributions by Michael F. Kamprath, https://github.com/michaelkamprath
 *
@@ -42,6 +42,8 @@ AmbaSatSTS21 *ambasatSTS21;
 AmbaSatLMIC *ambasatLMIC;
 AmbaSatLSM9DS1 *ambasatLSM9DS1;
 
+void(* resetFunc) (void) = 0;  // declare reset fuction at address 0
+
 // ============================================================================
 
 void setup()
@@ -53,7 +55,6 @@ void setup()
 
     // Turn the LED ON 
     pinMode(LED_PIN, OUTPUT);
-    digitalWrite(LED_PIN, LOW);
     digitalWrite(LED_PIN, HIGH);
 
     // Create the LMIC object
@@ -69,9 +70,6 @@ void setup()
     // Setup LMIC
     ambasatLMIC->setup(0x13, DEVADDR, appskey, nwkskey);
 
-    // Turn the LED OFF
-    digitalWrite(LED_PIN, LOW);
-
     // Create the sensor object
     ambasatSTS21 = new AmbaSatSTS21();
 
@@ -85,6 +83,8 @@ void setup()
         while (1);
     }
 
+    // Turn the LED OFF
+    digitalWrite(LED_PIN, LOW);
     PRINTLN_DEBUG("Setup complete");    
 }
 
@@ -97,18 +97,20 @@ void loop()
     LoraMessage message;
 
     voltage = readVcc();
-
+    
+    
     // read STS21
     if (ambasatSTS21->getSensorReading(&temperature)  == false) 
     {
         PRINTLN_DEBUG(F("Failed to read sensor data"));
     }  
       
-    PRINT_DEBUG(F("TEMP: "));
-    PRINT_DEBUG(temperature);   
-    PRINT_DEBUG(F(", VOLT: "));
+    PRINT_DEBUG(F("TEMP(°C): "));
+    PRINTLN_DEBUG(temperature);   
+    PRINT_DEBUG(F("VOLT: "));
     PRINTLN_DEBUG(voltage);   
 
+    
     uint8_t voltsEncoded = (uint8_t) (voltage / 100);   // eg. 2840 millivolts becomes 28 and in the Dashboard decoded to 2.8 volts
 
     // read LSM9DS1
@@ -168,7 +170,8 @@ void loop()
     for (int i=0; i < sleepcycles; i++)
     {
         LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);    
-    }     
+    }
+    resetFunc();     
 }
 
 // ============================================================================

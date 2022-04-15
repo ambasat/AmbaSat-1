@@ -37,6 +37,8 @@
 #define SENSOR_06_SI1132    56 // UV 7 Ambient
 #define SENSOR_07_CCS811B   57 // TVO & CO2
 #define SENSOR_08_TESEO     58 // GPS
+#define SENSOR_09_TEST      59 // Test sensor
+
 
 // LSM9DS1 Addresses
 #define LSM9DS1_M	0x1E  // Mag address
@@ -48,10 +50,7 @@ uint16_t readVcc();
 // TTN payloads - see: https://www.thethingsnetwork.org/docs/devices/bytes.html
 // -----------------------------------------------------------------------------
 
-// TTN decode for STS21 is as below
+// TTN decode for CCS811B is as below
 //  
-// 'temperature' uses a 16bit two's complement with two decimals, so the range is -327.68 to +327.67 degrees
-// 'voltage' - eg. 2840 millivolts becomes 28 and in the Dashboard is decoded to 2.8 volts
-//
-// AmbaSat 'SENSOR_03_BME680' TTN Payload Decoder expects:
-// decode(bytes, [temperature, uint8, int16, int16, int16, int16, int16, int16, int16, int16, int16], ['temperature', 'voltage', 'gx', 'gy', 'gz', 'ax', 'ay', 'az', 'mx', 'my', 'mz']);
+// AmbaSat 'SENSOR_07_CCS811B' TTN Payload Decoder expects:
+// decode(bytes, [int16, int16, uint8, int16, int16, int16, int16, int16, int16, int16, int16, int16], ['co2', 'tvoc', 'voltage', 'gx', 'gy', 'gz', 'ax', 'ay', 'az', 'mx', 'my', 'mz']);

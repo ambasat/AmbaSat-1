@@ -1,7 +1,7 @@
 /*******************************************************************************
 * AmbaSat-1 Sensor 06 - SI1132
-* 30th October 2020
-* Version 1.01
+* 15th April 2022
+* Version 1.1
 * Filename: main.cpp
 *
 * Copyright (c) 2022 AmbaSat Ltd
@@ -12,69 +12,52 @@
 * Use this application to test the circuitry of your AmbaSat-1 Satellite and Sensor 06 - SI1132
 * Once the code is uploaded to your AmbaSat-1 board, view the debug output to confirm readings
 *
-* Based on original code from FaBoPlatform - FaBoUV-Si1132-Library
 * ******************************************************************************/
-
-
-#include <FaBoUV_Si1132.h>
+#include <AmbaSatSI1132.h>
 
 #define LED_PIN 9
-
-FaBoUV faboUV;
+AmbaSatSI1132 *ambasatSI1132;
 
 // ==============================================================================
 void setup()
 {
-    Wire.begin();
-    // Initialise Serial Communication, Baud rate = 9600
-    Serial.begin(9600);
+  Wire.begin();
+  // Initialise Serial Communication, Baud rate = 9600
+  Serial.begin(9600);
 
-    while (!Serial)
-      delay(10);  
+  while (!Serial)
+    delay(10);  
 
-    // Turn on the LED during setup
-    pinMode(LED_PIN, OUTPUT);
-    digitalWrite(LED_PIN, LOW);
-    digitalWrite(LED_PIN, HIGH);
+  // Turn on the LED during setup
+  pinMode(LED_PIN, OUTPUT);
+  digitalWrite(LED_PIN, HIGH);
 
   Serial.println("Checking I2C device...");
 
-  while(!faboUV.begin()){
-    Serial.println("Si1132 Not Found. Trying again in 2 seconds");
-    delay(2000);
-  }
-  
-  Serial.println("Found Si1132");
-  Serial.println("");
+  ambasatSI1132 = new AmbaSatSI1132();
 
-    // Turn LED off
-    digitalWrite(LED_PIN, LOW);  
+  ambasatSI1132->setup();
+  
+  // Turn LED off
+  digitalWrite(LED_PIN, LOW);  
 }
 
 // ==============================================================================
 void loop()
-{ 
-  int uv_rawdata = faboUV.readUV();
-  int uv_index = uv_rawdata / 100;
-  int ir = faboUV.readIR();
-  int visible = faboUV.readVisible();
+{   
+  ambasatSI1132->readSensor();
 
-  Serial.print("RAW:");
-  Serial.println(uv_rawdata);
+  Serial.print("UV: ");
+  Serial.println(ambasatSI1132->uv/100.0);    
 
-  Serial.print("UV_INDEX:");
-  Serial.println(uv_index);
+  Serial.print("VIS: ");
+  Serial.println(ambasatSI1132->vis);    
 
-  Serial.print("IR:");
-  Serial.print(ir);
-  Serial.println(" lux");
+  Serial.print("IR: ");
 
-  Serial.print("Visible:");
-  Serial.print(visible);
-  Serial.println(" lux");
-
-  Serial.println("");
+  Serial.println(ambasatSI1132->ir);    
   
+  Serial.println(" ");
   delay(1000);
 }
 
