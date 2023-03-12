@@ -1,10 +1,10 @@
 /*******************************************************************************
 * AmbaSat-1 I2C Scan
-* 13th January 2022
-* Version 1.01
+* 12th March 2023
+* Version 1.02
 * Filename: main.cpp
 *
-* Copyright (c) 2022 AmbaSat Ltd
+* Copyright (c) 2023 AmbaSat Ltd
 * https://ambasat.com
 *
 * Licensed under Creative Commons Attribution-ShareAlike 3.0
@@ -12,7 +12,8 @@
 * Use this application to scan the I2C bus for connected devices
 * Based on code written by Nick Gammon
 *
-* 030 (0x1E) - Accelerometer & Magnetometer 
+* 030 (0x1E) - Accelerometer & Magnetometer
+* 050 (0x32) - TVOC ZMOD4410 
 * 058 (0x3A) - Teseo-LIV3F GPS
 * 074 (0x4A) - STS21
 * 091 (0x5B) - CCS811 Air Quality Sensor
