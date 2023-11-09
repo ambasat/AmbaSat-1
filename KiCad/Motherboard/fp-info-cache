@@ -1,0 +1,3039 @@
+692688672578536
+AmbaSat-1_Satellite
+1X01_ROUND
+
+
+0
+1
+1
+AmbaSat-1_Satellite
+1X06
+PIN HEADER
+
+0
+6
+6
+AmbaSat-1_Satellite
+1X08
+PIN HEADER
+
+0
+8
+8
+AmbaSat-1_Satellite
+CAPC160X80X90L40M
+Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.90 mm H body
+
+0
+2
+2
+AmbaSat-1_Satellite
+LEDC200X125X85L40M
+LED, Chip; 2.00 mm L X 1.25 mm W X 0.85 mm H body
+
+0
+2
+2
+AmbaSat-1_Satellite
+PQFN24P43_300X350X102L35X23M
+Pullback Quad Flat No-Lead (PQFN), 0.43 mm pitch; rect., 4 pin X 8 pin, 3.00 mm L X 3.50 mm W X 1.027 mm H body
+
+0
+24
+24
+AmbaSat-1_Satellite
+QFP32P80_900X900X120L60X37M
+Quad Flat Pack (QFP), 0.80 mm pitch; square, 8 pin X 8 pin, 7.00 mm L X 7.00 mm W X 1.20 mm H body
+
+0
+32
+32
+AmbaSat-1_Satellite
+RESC160X80X55L25M
+Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body
+
+0
+2
+2
+AmbaSat-1_Satellite
+RESONATOR-SMD-4.5X2.0
+
+
+0
+3
+3
+AmbaSat-1_Satellite
+RFM95
+
+
+0
+16
+16
+AmbaSat-1_Satellite
+RFM95 - Copy
+
+
+0
+16
+16
+AmbaSat-1_Satellite
+SOT23-5P95_280X145L45X40M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 5 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+5
+5
+AmbaSat-1_Satellite
+TESTPOINT_TH
+Through hole pin header
+pin header
+0
+1
+1
+AmbaSat-1_Satellite
+U.FL
+
+
+0
+4
+4
+fr_rt_footprints
+APA-102C
+
+
+0
+6
+6
+fr_rt_footprints
+CAPC160X80X90L40M
+Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.90 mm H body
+
+0
+2
+2
+fr_rt_footprints
+CAPC200X125X95L50M
+Capacitor, Chip; 2.00 mm L X 1.25 mm W X 0.95 mm H body
+
+0
+2
+2
+fr_rt_footprints
+DIALOG_STDFN14L
+Small Outline No-Lead (SON); 10 pin, 3.00 mm L X 1.00 mm W X 0.60 mm H body
+
+0
+10
+10
+fr_rt_footprints
+DIOM504X259X229L115X145M
+Diode, Molded Body; 4.295 mm L X 2.595 mm W X 2.29 mm H body
+
+0
+2
+2
+fr_rt_footprints
+DIOM529X362X240L114X208M
+Diode, Molded Body; 4.315 mm L X 3.62 mm W X 2.40 mm H body
+
+0
+2
+2
+fr_rt_footprints
+DIOM540X362X228L118X208
+Diode, Molded Body; 4.82 mm L X 3.625 mm W X 2.28 mm H body
+
+0
+2
+2
+fr_rt_footprints
+DIONM504X259X229L115X145M
+Diode, Non-Polarized, Molded Body; 4.295 mm L X 2.595 mm W X 2.29 mm H body
+
+0
+2
+2
+fr_rt_footprints
+DIOSOFL6P50_160X162X60L35X22
+Diode, Small Outline Flat Lead (SOFL), 0.50 mm pitch; 6 pin, 1.60 mm L X 1.175 mm W X 0.60 mm H body
+
+0
+6
+6
+fr_rt_footprints
+FIDUCIAL_1MM_2MM
+
+
+0
+1
+1
+fr_rt_footprints
+FUSSC165X325X130L50
+Fuse, Side Lead; 2 pin, 1.65 mm L X 3.25 mm W X 1.30 mm H body
+
+0
+2
+2
+fr_rt_footprints
+HOLE_1-4MM_NO_CLEAR
+
+
+0
+0
+0
+fr_rt_footprints
+HOLE_3-64MM_NO_CLEAR
+
+
+0
+0
+0
+fr_rt_footprints
+HOLE_3_4MM_8MM_CLEAR
+
+
+0
+0
+0
+fr_rt_footprints
+HOLE_DUAL_3_4MM_1_5MM_10MM_CLEAR
+
+
+0
+0
+0
+fr_rt_footprints
+INDC160X80X75L30M
+Inductor, Chip; 1.60 mm L X 0.80 mm W X 0.75 mm H body
+
+0
+2
+2
+fr_rt_footprints
+INDC200X125X145L50M
+Inductor, Chip; 2.00 mm L X 1.25 mm W X 1.45 mm H body
+
+0
+2
+2
+fr_rt_footprints
+INDM686X647X300L127X318
+Inductor, Molded Body; 5.717 mm L X 6.47 mm W X 3.00 mm H body
+
+0
+2
+2
+fr_rt_footprints
+JST_B3B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 3 pin, 9.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+5
+5
+fr_rt_footprints
+JST_B4B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 4 pin, 11.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+6
+6
+fr_rt_footprints
+JST_B5B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 5 pin, 13.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+7
+7
+fr_rt_footprints
+JST_B6B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 6 pin, 15.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+8
+8
+fr_rt_footprints
+JST_B8B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 8 pin, 19.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+10
+10
+fr_rt_footprints
+JST_S2B-PH-SM4-TBLFSN
+Header, Right Angle Plug; 4 pin, 7.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+4
+4
+fr_rt_footprints
+JST_S3B-PH-SM4-TBLFSN
+Header, Right Angle Shrouded Plug; 5 pin, 9.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+5
+5
+fr_rt_footprints
+JST_S4B-PH-SM4-TBLFSN
+Header, Right Angle Plug; 4 pin, 11.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+6
+6
+fr_rt_footprints
+JST_S6B-PH-SM4-TBLFSN
+Header, Right Angle Plug; 6 pin, 15.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+8
+8
+fr_rt_footprints
+JST_S7B-PH-SM4-TB
+Header, Right Angle Shrouded Plug; 7 pin, 17.95 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+9
+9
+fr_rt_footprints
+JST_S8B-PH-SM4-TBLFSN
+Header, Right Angle Shrouded Plug; 8 pin, 19.90 mm L X 7.60 mm W X 5.70 mm H body
+
+0
+10
+10
+fr_rt_footprints
+JST_S14B-PH-SM4-TBLFSN
+Header, Right Angle Shrouded Plug; 16 pin, 31.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+16
+16
+fr_rt_footprints
+KEYSTONE_1043
+Battery Holder; 2 pin, 77.05 mm L X 20.65 mm W X 14.86 mm H body
+
+0
+2
+2
+fr_rt_footprints
+LAIRD_BL653
+Module; 73 pin, 15.20 mm L X 10.20 mm W X 0.60 mm H body
+
+0
+73
+73
+fr_rt_footprints
+LEDSC80X160X80L40M
+LED, Side Lead; 2 pin, 0.80 mm L X 1.60 mm W X 0.80 mm H body
+
+0
+2
+2
+fr_rt_footprints
+MINEW_MS50SFB
+Module; 41 pin, 20.00 mm L X 12.00 mm W X 0.60 mm H body
+
+0
+41
+41
+fr_rt_footprints
+MOLEX_52746-0671_MULTI
+Connector, FFC; 6 pin, 9.10 mm L X 5.90 mm W X 3.00 mm H body
+
+0
+8
+8
+fr_rt_footprints
+NXP_SOT1197-1
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 11 pin, 2.70 mm L X 2.70 mm W X 0.50 mm H body
+
+0
+11
+11
+fr_rt_footprints
+PAD-160-080
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+fr_rt_footprints
+PQFN14P50_250X300X86L45X25M
+Pullback Quad Flat No-Lead (PQFN), 0.50 mm pitch; rect., pin 1 on short dimension, 4 pin X 3 pin, 2.50 mm L X 3.00 mm W X 0.86 mm H body
+
+0
+14
+14
+fr_rt_footprints
+PSON6P50_145X100X60L30X20
+Pullback Small Outline No-Lead (PSON), 0.50 mm pitch; 6 pin, 1.45 mm L X 1.00 mm W X 0.60 mm H body
+
+0
+6
+6
+fr_rt_footprints
+QFN17P50_300X300X60L40X24T170M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 4 pin X 4 pin, 3.00 mm L X 3.00 mm W X 0.60 mm H body
+
+0
+24
+17
+fr_rt_footprints
+QFN17P50_300X300X90L40X24T160M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 4 pin X 4 pin, 3.00 mm L X 3.00 mm W X 0.90 mm H body
+
+0
+24
+17
+fr_rt_footprints
+QFN17P50_350X250X100L40X24T200X100M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; rect., 6 pin X 2 pin, 3.50 mm L X 2.50 mm W X 1.00 mm H body
+
+0
+19
+17
+fr_rt_footprints
+QFN17P65_400X400X80L55X30T220M
+Quad Flat No-Lead (QFN with Tab), 0.65 mm pitch; square, 4 pin X 4 pin, 4.00 mm L X 4.00 mm W X 0.80 mm H body
+
+0
+24
+17
+fr_rt_footprints
+QFN21P40_300X300X60L40X20T170M
+Quad Flat No-Lead (QFN with Tab), 0.40 mm pitch; square, 5 pin X 5 pin, 3.00 mm L X 3.00 mm W X 0.60 mm H body
+
+0
+28
+21
+fr_rt_footprints
+QFN25P50_400X400X80L40X24T245
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 6 pin X 6 pin, 4.00 mm L X 4.00 mm W X 0.80 mm H body
+
+0
+32
+25
+fr_rt_footprints
+QFN29_25P50_550X350X100L40X24T244X226M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; rect., 10 pin X 4 pin, 5.50 mm L X 3.50 mm W X 1.00 mm H body
+
+0
+29
+25
+fr_rt_footprints
+RAYTAC_MDBT42Q-192K
+Module; 41 pin, 16.00 mm L X 10.00 mm W X 2.20 mm H body
+
+0
+41
+41
+fr_rt_footprints
+RESC160X80X55L25M
+Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body
+
+0
+2
+2
+fr_rt_footprints
+RESC160X80X55L25M_ZERO
+Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body
+
+0
+2
+2
+fr_rt_footprints
+RIGADO_BMD-300
+Module; 47 pin, 14.00 mm L X 9.80 mm W X 1.95 mm H body
+
+0
+47
+47
+fr_rt_footprints
+SEGGER_8_06_16
+Connector, Adapter; 6 pin, 9.271 mm L X 7.62 mm W X 29.232 mm H body
+
+0
+6
+6
+fr_rt_footprints
+SOD250X125X115L27X32
+Diode, Small Outline Diode (SOD); 1.70 mm L X 1.25 mm W X 1.15 mm H body
+
+0
+2
+2
+fr_rt_footprints
+SOD370X155X135L32X57
+Diode, Small Outline Diode (SOD); 2.70 mm L X 1.55 mm W X 1.35 mm H body
+
+0
+2
+2
+fr_rt_footprints
+SOIC8P127_490X600X175L83X41M
+Small Outline IC (SOIC), 1.27 mm pitch; 8 pin, 4.90 mm L X 3.90 mm W X 1.75 mm H body
+
+0
+8
+8
+fr_rt_footprints
+SON7P65_200X200X80L25X30T170X110M
+Small Outline No-Lead (SON with Tab), 0.65 mm pitch; 6 pin, 2.00 mm L X 2.00 mm W X 0.80 mm H body
+
+0
+9
+7
+fr_rt_footprints
+SON7P95_300X300X100L40X34T236X162M
+Small Outline No-Lead (SON with Tab), 0.95 mm pitch; 6 pin, 3.00 mm L X 3.00 mm W X 1.00 mm H body
+
+0
+11
+7
+fr_rt_footprints
+SON11P50_300X300X80L45X25T200X120
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 10 pin, 3.00 mm L X 3.00 mm W X 0.80 mm H body
+
+0
+13
+11
+fr_rt_footprints
+SON13P50_300X200X80L30X25T200X90
+Small Outline No-Lead (SON) with Thermal Tab, 0.50 mm pitch; 12 pin, 3.00 mm L X 2.00 mm W X 0.80 mm H body
+
+0
+15
+13
+fr_rt_footprints
+SOP8P65_300X495X110L55X31
+Small Outline Pkg (SOP), 0.65 mm pitch; 8 pin, 3.00 mm L X 3.00 mm W X 1.10 mm H body
+
+0
+8
+8
+fr_rt_footprints
+SOT23-3P95_280X145L47X40M_GSD
+Small Outline Transistor (SOT23), 0.95 mm pitch; 3 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+3
+3
+fr_rt_footprints
+SOT23-5P95_280X145L45X40M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 5 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+5
+5
+fr_rt_footprints
+SOT143-4P190_230X110L30X43
+Small Outline Transistor (SOT143), 1.90 mm pitch; 4 pin, 2.90 mm L X 1.30 mm W X 1.10 mm H body
+
+0
+4
+4
+fr_rt_footprints
+TESTPOINT-CIRCLE-1MM
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+fr_rt_footprints
+TESTPOINT-CIRCLE-1_75MM
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+fr_rt_footprints
+TESTPOINT_TH
+Through hole pin header
+pin header
+0
+1
+1
+fr_rt_footprints
+TESTPOINT_TH_50_15
+Through hole pin header
+pin header
+0
+1
+1
+fr_rt_footprints
+TI_DRB0008A
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 13 pin, 3.10 mm L X 3.10 mm W X 1.00 mm H body
+
+0
+13
+13
+fr_rt_footprints
+TI_RQM0029A
+Quad Flat No-Lead (QFN); 33 pin, 4.00 mm L X 4.00 mm W X 1.00 mm H body
+
+0
+33
+29
+fr_rt_footprints
+VIA_12milDrill_27milPad
+
+
+0
+1
+1
+fr_rt_footprints
+XTALDFN2_320X150X90L60X130
+Crystal, Dual Flat No-Lead (DFN 2 Pin); 2 pin, 3.20 mm L X 1.50 mm W X 0.90 mm H body
+
+0
+2
+2
+fz_rt_footprints
+CAPC160X80X90L40M
+Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.90 mm H body
+
+0
+2
+2
+fz_rt_footprints
+FIDUCIAL_1MM_2MM
+
+
+0
+1
+1
+fz_rt_footprints
+HOLE_3MM_6MM_CLEAR
+
+
+0
+0
+0
+fz_rt_footprints
+JST_B5B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 5 pin, 13.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+7
+7
+fz_rt_footprints
+P160KNPD
+
+
+0
+3
+3
+fz_rt_footprints
+RESC160X80X55L25M
+Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body
+
+0
+2
+2
+fz_rt_footprints
+SOD370X155X135L32X57
+Diode, Small Outline Diode (SOD); 2.70 mm L X 1.55 mm W X 1.35 mm H body
+
+0
+2
+2
+fz_rt_footprints
+SOT23-3P95_280X145L47X40M_GSD
+Small Outline Transistor (SOT23), 0.95 mm pitch; 3 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+3
+3
+fz_rt_footprints
+SOT23-6P95_280X145L42X40M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 6 pin, 2.90 mm L X 1.625 mm W X 1.45 mm H body
+
+0
+6
+6
+fz_rt_footprints
+TESTPOINT_TH
+Through hole pin header
+pin header
+0
+1
+1
+rt_footprints
+ADAFRUIT_FEATHER
+ADAFRUIT_FEATHER
+adafruit_feather
+0
+28
+28
+rt_footprints
+ADAFRUIT_FEATHER_NO_MNT
+ADAFRUIT_FEATHER_NO_MNT
+adafruit_feather_no_mnt
+0
+28
+28
+rt_footprints
+APA-102C
+
+
+0
+6
+6
+rt_footprints
+ARDUINO_NANO
+Through hole pin header
+pin header
+0
+30
+30
+rt_footprints
+BAT-HLD-001
+
+
+0
+3
+2
+rt_footprints
+BAT-HLD-001-MOD
+
+
+0
+4
+2
+rt_footprints
+BMI055
+
+
+0
+16
+16
+rt_footprints
+BMI160
+
+
+0
+14
+14
+rt_footprints
+BOURNS_2093
+Resistor SMD 2512
+resistor 2512
+0
+2
+2
+rt_footprints
+BS-6
+
+
+0
+3
+2
+rt_footprints
+CAPM3747X3493X1372L254X1905
+Capacitor, Chip; 2.00 mm L X 1.25 mm W X 0.95 mm H body
+
+0
+2
+2
+rt_footprints
+CRYDOM_CMX
+
+
+0
+4
+4
+rt_footprints
+CRYDOM_CMX_HORIZONTAL
+
+
+0
+4
+4
+rt_footprints
+C_0402
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+rt_footprints
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+rt_footprints
+C_1206
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+rt_footprints
+D24V22Fx_POLOLU
+
+
+0
+6
+6
+rt_footprints
+DDPAK-7
+DDPAK-7
+ddpak-7
+0
+8
+8
+rt_footprints
+DFS
+module SMD SOIC SOJ 8 pins etroit
+CMS SOJ
+0
+4
+4
+rt_footprints
+DIAN_NAO_SMALL
+
+
+0
+0
+0
+rt_footprints
+DIOM5336X265N
+Diode, Molded Body; 5.35 mm L X 3.625 mm W X 2.65 mm H body
+
+0
+2
+2
+rt_footprints
+DRV8850RGY_QFN24
+
+
+0
+25
+25
+rt_footprints
+DRV8850_CARRIER
+Through hole pin header
+pin header
+0
+20
+20
+rt_footprints
+EB-Logo
+
+
+0
+0
+0
+rt_footprints
+EC_16
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+rt_footprints
+Enigma-out_B.SilkS_.6in_flipped
+
+
+0
+0
+0
+rt_footprints
+Enigma-out_B.SilkS_1.25in_flipped
+
+
+0
+0
+0
+rt_footprints
+Enigma-out_B.SilkS_3in_flipped
+
+
+0
+0
+0
+rt_footprints
+FIDUCIAL_1MM_2MM
+
+
+0
+1
+1
+rt_footprints
+FR_PAD_CIRC000003
+
+
+0
+1
+1
+rt_footprints
+FR_PAD_CIRC000004
+
+
+0
+1
+1
+rt_footprints
+FR_PAD_CIRC000007
+
+
+0
+1
+1
+rt_footprints
+FSTH-105-XX-XXX-DV-XXX
+FSTH-105-XX-XXX-DV-XXX
+FSTH-105-XX-XXX-DV-XXX
+0
+10
+10
+rt_footprints
+Fuse_SMD1206
+Fuse, Sicherung, SMD1206, Littlefuse-Wickmann, Reflow,
+Fuse, Sicherung, SMD1206,  Littlefuse-Wickmann, Reflow,
+0
+2
+2
+rt_footprints
+Fuse_SMD2920
+Fuse, SMD2920
+Fuse, SMD2920
+0
+2
+2
+rt_footprints
+HEADER_100MIL_2
+Through hole pin header
+pin header
+0
+2
+2
+rt_footprints
+HEADER_100MIL_3
+Through hole pin header
+pin header
+0
+3
+3
+rt_footprints
+HEADER_100MIL_14
+Through hole pin header
+pin header
+0
+14
+14
+rt_footprints
+HOLE_0-5MM_0-75MM_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_1-4MM_NO_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_3-042MM_NO_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_3-64MM_NO_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_3MM_3-5MM_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_3MM_6MM_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_3_3MM_6MM_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_3_3MM_6_5MM_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_3_3MM_8MM_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_3_4MM_8MM_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_116MIL_350MIL_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_116MIL_TOP_215MIL_BOT_300MIL_CLEAR
+
+
+0
+2
+0
+rt_footprints
+HOLE_116MIL_TOP_215MIL_BOT_350MIL_CLEAR
+
+
+0
+1
+0
+rt_footprints
+HOLE_116MIL_TOP_215_BOT_350MIL_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_147MIL_275MIL_CLEAR
+
+
+0
+0
+0
+rt_footprints
+HOLE_DUAL_3_4MM_1_5MM_10MM_CLEAR
+
+
+0
+0
+0
+rt_footprints
+JST_2MM_2P_SMD
+JST 2P SMD
+JST 2P SMD
+0
+4
+4
+rt_footprints
+JST_2MM_2P_VERT_SMD
+JST 2P VERT SMD
+JST 2P VERT SMD
+0
+4
+4
+rt_footprints
+JST_2MM_3P_VERT_SMD
+JST 3P VERT SMD
+JST 3P VERT SMD
+0
+5
+5
+rt_footprints
+JST_2MM_4P_VERT_SMD
+JST 4P VERT SMD
+JST 4P VERT SMD
+0
+6
+6
+rt_footprints
+JST_2MM_5P_VERT_SMD
+JST 5P VERT SMD
+JST 5P VERT SMD
+0
+7
+7
+rt_footprints
+JST_2MM_6P_VERT_SMD
+JST 6P VERT SMD
+JST 6P VERT SMD
+0
+8
+8
+rt_footprints
+KEYSTONE_1042_SMD
+
+
+0
+2
+2
+rt_footprints
+KM87_HVCAP
+
+
+0
+2
+2
+rt_footprints
+LED-0805
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+rt_footprints
+LOGO_CMI
+
+
+0
+0
+0
+rt_footprints
+LSM9DS1_LGA24
+LSM9DS1 LGA24
+lsm9ds1 lga24
+0
+24
+24
+rt_footprints
+L_0402
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+rt_footprints
+Logo-FactoryForAll-Back-002
+
+
+0
+0
+0
+rt_footprints
+Logo_Factory_For_All-0
+
+
+0
+0
+0
+rt_footprints
+MDM31-PBR
+
+
+0
+31
+31
+rt_footprints
+MDM31-SBR
+
+
+0
+31
+31
+rt_footprints
+MDM31-xBR
+
+
+0
+31
+31
+rt_footprints
+MICRO_FIT_4P_V_TH
+Micro-Fit, Molex
+Micro-Fit, Molex
+0
+4
+4
+rt_footprints
+MIFARE_ANT_40MM
+
+
+0
+4
+2
+rt_footprints
+MINI_FIT_JR_2P_V_TH
+Mini-Fit Jr, Molex
+Mini-Fit Jr, Molex
+0
+2
+2
+rt_footprints
+MINI_FIT_JR_4P_V_TH
+Mini-Fit Jr, Molex
+Mini-Fit Jr, Molex
+0
+4
+4
+rt_footprints
+MS12D17
+
+SOT23
+0
+3
+3
+rt_footprints
+MURATA_3pin_SMD_Resonator
+Murata 3 Pin SMD Resonator
+Resonator Crystal
+0
+3
+3
+rt_footprints
+OHMITE_OY_SMD
+Resistor SMD 2512
+resistor 2512
+0
+2
+2
+rt_footprints
+OMRON_B3U-1000P
+OMRON B3U-1000P Ultra Small Tactile Switch
+Switch
+0
+2
+2
+rt_footprints
+ONSEMI_WDFN8_PAD
+ONSEMI WDFN8 PAD
+onsemi wdfn8
+0
+9
+9
+rt_footprints
+P160KNPD
+
+
+0
+3
+3
+rt_footprints
+PAD-150-070
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+PAD-160-040
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+PAD-160-080
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+PAD-160-100
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+PAD-300-150
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+PAD-400-200
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+POLOLU_DRV8801
+POLOLU_DRV8801
+pololu_drv8801
+0
+12
+12
+rt_footprints
+POLOLU_DRV8838
+Through hole pin header
+pin header
+0
+10
+10
+rt_footprints
+PTN78000_TH
+Fuse, SMD2920
+Fuse, SMD2920
+0
+5
+5
+rt_footprints
+Pin_Header_Straight_1x02
+Through hole pin header
+pin header
+0
+2
+2
+rt_footprints
+QFN16_3.0x3.0
+QFN16_3.0x3.0
+QFN16_3.0x3.0
+0
+17
+17
+rt_footprints
+QFN24
+
+
+0
+25
+25
+rt_footprints
+QFN48
+
+
+0
+48
+48
+rt_footprints
+QFN64_9.0x9.0
+QFN64_9.0x9.0
+QFN64_9.0x9.0
+0
+65
+65
+rt_footprints
+QFN64_9.0x9.0_NOMINAL
+QFN64_9.0x9.0_NOMINAL
+QFN64_9.0x9.0_NOMINAL
+0
+65
+65
+rt_footprints
+RESC1608M
+Resistor SMD Metric 1608 (0603)
+resistor smd 1608 (0603)
+0
+2
+2
+rt_footprints
+RJ45_8
+
+RJ45
+0
+8
+8
+rt_footprints
+RJHSE-5080
+
+RJ45
+0
+8
+8
+rt_footprints
+RT_F.SilkS_.6in
+
+
+0
+0
+0
+rt_footprints
+RT_F.SilkS_1.25in
+
+
+0
+0
+0
+rt_footprints
+RT_F.SilkS_3in
+
+
+0
+0
+0
+rt_footprints
+R_0402
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+rt_footprints
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+rt_footprints
+R_2512
+Resistor SMD 2512
+resistor 2512
+0
+2
+2
+rt_footprints
+R_3512
+Resistor SMD 2512
+resistor 2512
+0
+2
+2
+rt_footprints
+SAMTEC_SSM-106
+
+
+0
+6
+6
+rt_footprints
+SAMTEC_SSM-108
+
+
+0
+8
+8
+rt_footprints
+SAMTEC_SSM-112
+
+
+0
+12
+12
+rt_footprints
+SC70-6
+SC70-6
+sc70-6
+0
+6
+6
+rt_footprints
+SK6812MINI
+SK6812MINI
+
+0
+4
+4
+rt_footprints
+SMA_EDGELAUNCH
+
+
+0
+5
+2
+rt_footprints
+SMH-108-02-xxx-S
+Small Outline IC (SOIC), 2.54 mm pitch; 16 pin, 20.84 mm L X 8.51 mm W X 2.41 mm H body
+
+0
+8
+8
+rt_footprints
+SOD-123
+Diode SMB Handsoldering
+Diode SMB Handsoldering
+0
+2
+2
+rt_footprints
+SOIC-8-N
+module SMD SOIC SOJ 8 pins etroit
+CMS SOJ
+0
+8
+8
+rt_footprints
+SOIC-8-W
+module SMD SOIC SOJ 8 pins etroit
+CMS SOJ
+0
+8
+8
+rt_footprints
+SOIC-14
+module SMD SOIC SOJ 14 pins etroit
+CMS SOJ
+0
+15
+14
+rt_footprints
+SOIC-16
+SOIC-16
+soic-16
+0
+16
+16
+rt_footprints
+SOLID_VIA
+Through hole pin header
+pin header
+0
+1
+1
+rt_footprints
+SOP-4
+SOP-4
+sop-4
+0
+4
+4
+rt_footprints
+SOT-23
+
+SOT23
+0
+3
+3
+rt_footprints
+SOT-23-5
+
+SOT23
+0
+5
+5
+rt_footprints
+SOT-23-6
+
+SOT23
+0
+6
+6
+rt_footprints
+SOT-23-AXC
+
+SOT23
+0
+3
+3
+rt_footprints
+SOT-23-GSD
+
+SOT23
+0
+3
+3
+rt_footprints
+SOT-223-6
+
+SOT23
+0
+6
+6
+rt_footprints
+SOT143B
+
+SOT23
+0
+4
+4
+rt_footprints
+SOTFL3P95_240X88L40X43M
+Transistor, Small Outline Flat Lead (SOFL), 0.95 mm pitch; 3 pin, 2.90 mm L X 1.80 mm W X 0.88 mm H body
+
+0
+3
+3
+rt_footprints
+SPARKFUN_SAMD21_MINI
+Through hole pin header
+pin header
+0
+26
+26
+rt_footprints
+SSOP-16
+SSOP-16
+ssop-16
+0
+16
+16
+rt_footprints
+TEENSY_3_2
+TEENSY_3_2
+teensy_3_2
+0
+37
+37
+rt_footprints
+TEENSY_3_6
+
+
+0
+62
+62
+rt_footprints
+TESTPOINT-CIRCLE-0_5MM
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+TESTPOINT-CIRCLE-1MM
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+TESTPOINT-CIRCLE-1_75MM
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+TESTPOINT-CIRCLE-075
+SMD Pad 0.160" x 0.040"
+Pad
+0
+1
+1
+rt_footprints
+TESTPOINT_TH
+Through hole pin header
+pin header
+0
+1
+1
+rt_footprints
+TESTPOINT_TH_40MIL_HOLE_85MIL_PAD
+Through hole pin header
+pin header
+0
+1
+1
+rt_footprints
+TESTPOINT_TH_50_15
+Through hole pin header
+pin header
+0
+1
+1
+rt_footprints
+TESTPOINT_TH_150
+Through hole pin header
+pin header
+0
+1
+1
+rt_footprints
+TESTPOINT_W_TH
+Through hole pin header
+pin header
+0
+1
+1
+rt_footprints
+TI_Q5A
+TI Q5A
+ti q5a
+0
+9
+8
+rt_footprints
+TI_Q5A_X
+TI Q5A X
+ti q5a x
+0
+9
+8
+rt_footprints
+TI_S-XBGA-N9
+TI S-XBGA-N9
+ti s-xbga-n9
+0
+9
+9
+rt_footprints
+TI_WSON8_PAD
+
+
+0
+9
+9
+rt_footprints
+TI_WSON10_PAD
+TI WSON10 PAD
+ti wson10
+0
+11
+11
+rt_footprints
+TI_WSON12_PAD
+
+
+0
+22
+13
+rt_footprints
+TO-5_8PIN
+TO-72, 4 Pin,
+TO-72, 4 Pin,
+0
+8
+8
+rt_footprints
+TQFP-32
+
+
+0
+32
+32
+rt_footprints
+TSM-108-01-xxx-SH
+Small Outline IC (SOIC), 2.54 mm pitch; 16 pin, 20.315 mm L X 2.54 mm W X 3.05 mm H body
+
+0
+8
+8
+rt_footprints
+TSOP6
+
+SOT23
+0
+6
+6
+rt_footprints
+Teensy35_36
+
+
+0
+86
+86
+rt_footprints
+UP_LOGO_1
+
+
+0
+0
+0
+rt_footprints
+USB-A-PCB
+
+
+0
+5
+4
+rt_footprints
+VIA_12milDrill_27milPad
+
+
+0
+1
+1
+rt_footprints
+VIA_13milDrill_27milPad
+
+
+0
+1
+1
+rt_footprints
+VICOR_MICRO
+
+
+0
+13
+13
+rt_footprints
+VNH5019_POLOLU
+
+
+0
+18
+14
+rt_footprints
+VSSOP-10
+VSSOP-10
+vssop-10
+0
+10
+10
+rt_footprints
+XBEE
+XBEE
+xbee
+0
+20
+20
+rt_footprints
+XBEE-PRO
+XBEE-PRO
+xbee-pro
+0
+20
+20
+rt_footprints
+XP_EMCO_AG_3KV_5KV
+
+
+0
+5
+5
+rt_footprints
+XTAL_2520_4PIN
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+4
+4
+rt_footprints
+XTAL_3215
+Crystal SMD 3215
+crystal 3215
+0
+2
+2
+rt_footprints
+osh-logo-0-4mm
+
+
+0
+0
+0
+rt_footprints
+osh-logo-0-5mm
+
+
+0
+0
+0
+rt_footprints
+osh-logo-no-name
+
+
+0
+0
+0
+rt_footprints
+xSOIC16P254_2031X1168X305L203X64M
+Small Outline IC (SOIC), 2.54 mm pitch; 16 pin, 20.315 mm L X 2.54 mm W X 3.05 mm H body
+
+0
+16
+16
+rt_footprints
+xSOIC16P254_2084X1537X241L114X79M
+Small Outline IC (SOIC), 2.54 mm pitch; 16 pin, 20.84 mm L X 8.51 mm W X 2.41 mm H body
+
+0
+16
+16
+rt_footprints
+xSOJ4P175_350X370X95L85N
+Small Outline J-Lead (SOJ), 1.75 mm pitch; 4 pin, 3.50 mm L X 3.50 mm W X 0.95 mm H body
+
+0
+4
+4
+rt_pcbl_alt_footprints
+HIROSE_DM3CS-SF
+Connector, Micro SD; 12 pin, 13.80 mm L X 15.45 mm W X 1.83 mm H body
+
+0
+16
+13
+rt_pcbl_alt_footprints
+KEYSTONE_1043
+Battery Holder; 2 pin, 77.05 mm L X 20.65 mm W X 14.86 mm H body
+
+0
+2
+2
+rt_pcbl_alt_footprints
+LEDC200X125X110L50M
+LED, Chip; 2.00 mm L X 1.25 mm W X 1.10 mm H body
+
+0
+2
+2
+rt_pcbl_alt_footprints
+MOLEX_52746-0671
+Connector, FFC; 6 pin, 9.10 mm L X 5.90 mm W X 3.00 mm H body
+
+0
+8
+8
+rt_pcbl_alt_footprints
+MOLEX_52746-0671_MULTI
+Connector, FFC; 6 pin, 9.10 mm L X 5.90 mm W X 3.00 mm H body
+
+0
+8
+8
+rt_pcbl_alt_footprints
+PQFN14P50_250X300X86L45X25M
+Pullback Quad Flat No-Lead (PQFN), 0.50 mm pitch; rect., pin 1 on short dimension, 4 pin X 3 pin, 2.50 mm L X 3.00 mm W X 0.86 mm H body
+
+0
+14
+14
+rt_pcbl_alt_footprints
+RESC160X80X55L25M_ZERO
+Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body
+
+0
+2
+2
+rt_pcbl_alt_footprints
+SEGGER_8_06_16
+Connector, Adapter; 6 pin, 9.271 mm L X 7.62 mm W X 29.232 mm H body
+
+0
+6
+6
+rt_pcbl_alt_footprints
+SON13P50_300X200X80L30X25T200X90
+Small Outline No-Lead (SON) with Thermal Tab, 0.50 mm pitch; 12 pin, 3.00 mm L X 2.00 mm W X 0.80 mm H body
+
+0
+15
+13
+rt_pcbl_alt_footprints
+SOT23-3P95_280X145L47X40M_AXC
+Small Outline Transistor (SOT23), 0.95 mm pitch; 3 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+3
+3
+rt_pcbl_alt_footprints
+SOT23-3P95_280X145L47X40M_GSD
+Small Outline Transistor (SOT23), 0.95 mm pitch; 3 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+3
+3
+rt_pcbl_alt_footprints
+TI_KTT0003B
+DPAK, 2.54 mm pitch: 4 pin, 10.42 mm L X 8.90 mm W X 4.79 mm H body
+
+0
+5
+3
+rt_pcbl_alt_footprints
+TI_RQM0029A
+Quad Flat No-Lead (QFN); 33 pin, 4.00 mm L X 4.00 mm W X 1.00 mm H body
+
+0
+33
+29
+rt_pcbl_footprints
+AMSAG_FN-6
+Convertor; 6 pin, 2.40 mm L X 2.00 mm W X 0.70 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+BEADM960X305X305L150X127M
+Ferrite Bead, Molded Body; 9.00 mm L X 3.05 mm W X 3.05 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+BGA16NP35_4X4_140X148X49B21M
+Ball Grid Array (BGA), 0.35 mm pitch, rect.; 16 pin, 1.40 mm L X 1.48 mm W X 0.491 mm H body
+
+0
+18
+18
+rt_pcbl_footprints
+BGA36NP40_6X6_250X250X100B25M
+Ball Grid Array (BGA), 0.40 mm pitch, square; 36 pin, 2.50 mm L X 2.50 mm W X 1.00 mm H body
+
+0
+38
+38
+rt_pcbl_footprints
+BOURNS_TC33X-2
+Potentiometer; 3 pin, 3.60 mm L X 3.80 mm W X 1.25 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+CAPC100X50X55L25M
+Capacitor, Chip; 1.00 mm L X 0.50 mm W X 0.55 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+CAPC160X80X90L40M
+Capacitor, Chip; 1.60 mm L X 0.80 mm W X 0.90 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+CAPC200X125X95L50M
+Capacitor, Chip; 2.00 mm L X 1.25 mm W X 0.95 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+CAPC320X160X180L50M
+Capacitor, Chip; 3.20 mm L X 1.60 mm W X 1.80 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+CAPC320X250X280L30M
+Capacitor, Chip; 3.20 mm L X 2.50 mm W X 2.80 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+COLE_1890-202CQSDTY
+Switch, Rotary; 6 pin, 0.500 in D X 0.490 in H body
+
+0
+6
+6
+rt_pcbl_footprints
+DIALOG_STDFN14L
+Small Outline No-Lead (SON); 10 pin, 3.00 mm L X 1.00 mm W X 0.60 mm H body
+
+0
+10
+10
+rt_pcbl_footprints
+DIOM504X259X229L115X145M
+Diode, Molded Body; 4.295 mm L X 2.595 mm W X 2.29 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+DIOM529X362X240L114X208M
+Diode, Molded Body; 4.315 mm L X 3.62 mm W X 2.40 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+DIOM540X362X228L118X208
+Diode, Molded Body; 4.82 mm L X 3.625 mm W X 2.28 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+DIONM504X259X229L115X145M
+Diode, Non-Polarized, Molded Body; 4.295 mm L X 2.595 mm W X 2.29 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+DIOSOFL6P50_160X162X60L35X22
+Diode, Small Outline Flat Lead (SOFL), 0.50 mm pitch; 6 pin, 1.60 mm L X 1.175 mm W X 0.60 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+DPAK4P254_1524X483L228X75T716X1067M
+DPAK, 2.54 mm pitch; 2 pin, 9.015 mm L X 10.16 mm W X 4.83 mm H body
+
+0
+31
+3
+rt_pcbl_footprints
+DPAK6P170_1524X483L228X78T850X1067
+DPAK, 1.70 mm pitch; 5 pin, 8.925 mm L X 10.16 mm W X 4.83 mm H body
+
+0
+30
+6
+rt_pcbl_footprints
+DPAK8P127_1397X457L127X77T812X1054M
+DPAK, 1.27 mm pitch; 7 pin, 8.89 mm L X 10.224 mm W X 4.572 mm H body
+
+0
+38
+8
+rt_pcbl_footprints
+DPAK8P127_1524X465L254X71T796X1041M
+DPAK, 1.27 mm pitch; 7 pin, 8.89 mm L X 10.095 mm W X 4.65 mm H body
+
+0
+38
+8
+rt_pcbl_footprints
+FUSC455X324X200L75M
+Fuse, Chip; 4.55 mm L X 3.24 mm W X 2.00 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+FUSSC165X325X130L50
+Fuse, Side Lead; 2 pin, 1.65 mm L X 3.25 mm W X 1.30 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+FUSSC257X321X85L40
+Fuse, Side Lead; 2 pin, 2.575 mm L X 3.215 mm W X 0.85 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+FUSSC257X321X85L40M
+Fuse, Side Lead; 2 pin, 2.575 mm L X 3.215 mm W X 0.85 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+HIROSE_DM3CS-SF
+Connector, Micro SD; 12 pin, 13.80 mm L X 15.45 mm W X 1.83 mm H body
+
+0
+13
+13
+rt_pcbl_footprints
+HONEYWELL_SMT_NN
+Sensor; 8 pin, 13.30 mm L X 10.00 mm W X 6.41 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+ICSOFL6P95_290X240X88L40X43M
+Integrated Circuit (IC), Small Outline Flat Lead (SOFL), 0.95 mm pitch; 3 pin, 2.90 mm L X 1.80 mm W X 0.88 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+INDC160X80X75L30M
+Inductor, Chip; 1.60 mm L X 0.80 mm W X 0.75 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+INDC200X125X145L50M
+Inductor, Chip; 2.00 mm L X 1.25 mm W X 1.45 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+INDM686X647X300L127X318
+Inductor, Molded Body; 5.717 mm L X 6.47 mm W X 3.00 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+JST_B2B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 2 pin, 7.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+JST_B3B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 3 pin, 9.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+5
+5
+rt_pcbl_footprints
+JST_B4B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 4 pin, 11.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+JST_B5B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 5 pin, 13.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+7
+7
+rt_pcbl_footprints
+JST_B6B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 6 pin, 15.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+JST_B7B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 7 pin, 17.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+9
+9
+rt_pcbl_footprints
+JST_B8B-PH-SM4-TB
+Header, Vertical Shrouded Plug; 8 pin, 19.95 mm L X 5.00 mm W X 6.75 mm H body
+
+0
+10
+10
+rt_pcbl_footprints
+JST_S2B-PH-KL
+Header, Right Angle Shrouded, 2.00 mm pitch; 0.55 mm lead width, 2 pins, 1 row, 2 pins per row, 5.90 mm L X 7.60 mm W X 4.90 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+JST_S2B-PH-SM4-TBLFSN
+Header, Right Angle Plug; 4 pin, 7.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+JST_S3B-PH-KL
+Header, Right Angle Shrouded, 2.00 mm pitch; 0.55 mm lead width, 3 pins, 1 row, 3 pins per row, 7.90 mm L X 7.60 mm W X 4.90 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+JST_S3B-PH-SM4-TBLFSN
+Header, Right Angle Shrouded Plug; 5 pin, 9.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+5
+5
+rt_pcbl_footprints
+JST_S4B-PH-SM4-TBLFSN
+Header, Right Angle Plug; 4 pin, 11.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+JST_S6B-PH-SM4-TBLFSN
+Header, Right Angle Plug; 6 pin, 15.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+JST_S7B-PH-SM4-TB
+Header, Right Angle Shrouded Plug; 7 pin, 17.95 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+9
+9
+rt_pcbl_footprints
+JST_S8B-PH-SM4-TBLFSN
+Header, Right Angle Shrouded Plug; 8 pin, 19.90 mm L X 7.60 mm W X 5.70 mm H body
+
+0
+10
+10
+rt_pcbl_footprints
+JST_S14B-PH-KL
+Header, Right Angle Shrouded, 2.00 mm pitch; 0.55 mm lead width, 14 pins, 1 row, 14 pins per row, 29.90 mm L X 7.60 mm W X 4.90 mm H body
+
+0
+14
+14
+rt_pcbl_footprints
+JST_S14B-PH-SM4-TBLFSN
+Header, Right Angle Shrouded Plug; 16 pin, 31.90 mm L X 7.60 mm W X 5.65 mm H body
+
+0
+16
+16
+rt_pcbl_footprints
+KEYSTONE_1043
+Battery Holder; 2 pin, 77.05 mm L X 20.65 mm W X 14.86 mm H body
+
+0
+5
+5
+rt_pcbl_footprints
+LAIRD_BL653
+Module; 73 pin, 15.20 mm L X 10.20 mm W X 0.60 mm H body
+
+0
+73
+73
+rt_pcbl_footprints
+LCCS14P127_600X600X220L91X50
+Leadless Chip Carrier (LCC), 1.27 mm pitch; square, 4 pin X 3 pin, 6.00 mm L X 6.00 mm W X 2.20 mm H body
+
+0
+14
+14
+rt_pcbl_footprints
+LEDC200X125X85L40M
+LED, Chip; 2.00 mm L X 1.25 mm W X 0.85 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+LEDSC80X160X80L40M
+LED, Side Lead; 2 pin, 0.80 mm L X 1.60 mm W X 0.80 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+MICROCHIP_C04-186A
+Quad Flat No-Lead (QFN with Tab); 21 pin, 5.00 mm L X 5.00 mm W X 1.00 mm H body
+
+0
+37
+21
+rt_pcbl_footprints
+MINEW_MS50SFB
+Module; 41 pin, 20.00 mm L X 12.00 mm W X 0.60 mm H body
+
+0
+41
+41
+rt_pcbl_footprints
+MOLEX_47346-0001
+Connector, USB Receptacle Right Angle; 5 pin, 7.80 mm L X 5.43 mm W X 3.13 mm H body
+
+0
+11
+11
+rt_pcbl_footprints
+MOLEX_52746-0671
+Connector, FFC; 6 pin, 9.10 mm L X 5.90 mm W X 3.00 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+MOLEX_73412-0110
+Connector, Jack Vertical Receptacle; 4 pin, 2.60 mm L X 2.60 mm W X 1.36 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+MURATA_CSTCR4M00G53-R0
+Resonator, 0.40 mm pitch, 3 pin; 4.50 mm L X 2.00 mm W X 1.20 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+MURATA_CSTCR6M00G53-R0
+Resonator; 3 pin, 4.50 mm L X 2.00 mm W X 1.20 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+NXP_SOT1197-1
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 11 pin, 2.70 mm L X 2.70 mm W X 0.50 mm H body
+
+0
+11
+11
+rt_pcbl_footprints
+OHMITE_TO-252
+Resistor; 3 pin, 12.00 mm L X 8.30 mm W X 1.01 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+OSCSC4P508_700X500X100L110X140
+Oscillator, Side Concave, 5.08 mm pitch; 4 pin, 7.00 mm L X 5.00 mm W X 1.00 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+PQFN10P60_250X250X80L45X30
+Pullback Quad Flat No-Lead (PQFN), 0.60 mm pitch; square, 2 pin X 3 pin, 2.50 mm L X 2.50 mm W X 0.80 mm H body
+
+0
+10
+10
+rt_pcbl_footprints
+PQFN14P50_250X300X86L45X25M
+Pullback Quad Flat No-Lead (PQFN), 0.50 mm pitch; rect., pin 1 on short dimension, 4 pin X 3 pin, 2.50 mm L X 3.00 mm W X 0.86 mm H body
+
+0
+14
+14
+rt_pcbl_footprints
+PQFN24P43_300X350X102L35X23M
+Pullback Quad Flat No-Lead (PQFN), 0.43 mm pitch; rect., 4 pin X 8 pin, 3.00 mm L X 3.50 mm W X 1.027 mm H body
+
+0
+24
+24
+rt_pcbl_footprints
+PSON6P50_145X100X60L30X20
+Pullback Small Outline No-Lead (PSON), 0.50 mm pitch; 6 pin, 1.45 mm L X 1.00 mm W X 0.60 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+QFN17P50_300X300X60L40X24T170M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 4 pin X 4 pin, 3.00 mm L X 3.00 mm W X 0.60 mm H body
+
+0
+24
+17
+rt_pcbl_footprints
+QFN17P50_300X300X90L40X24T160M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 4 pin X 4 pin, 3.00 mm L X 3.00 mm W X 0.90 mm H body
+
+0
+24
+17
+rt_pcbl_footprints
+QFN17P50_300X300X100L40X24T160M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 4 pin X 4 pin, 3.00 mm L X 3.00 mm W X 1.00 mm H body
+
+0
+24
+17
+rt_pcbl_footprints
+QFN17P50_350X250X100L40X24T200X100M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; rect., 6 pin X 2 pin, 3.50 mm L X 2.50 mm W X 1.00 mm H body
+
+0
+19
+17
+rt_pcbl_footprints
+QFN17P65_400X400X80L55X30T220M
+Quad Flat No-Lead (QFN with Tab), 0.65 mm pitch; square, 4 pin X 4 pin, 4.00 mm L X 4.00 mm W X 0.80 mm H body
+
+0
+24
+17
+rt_pcbl_footprints
+QFN21P40_300X300X60L40X20T170M
+Quad Flat No-Lead (QFN with Tab), 0.40 mm pitch; square, 5 pin X 5 pin, 3.00 mm L X 3.00 mm W X 0.60 mm H body
+
+0
+28
+21
+rt_pcbl_footprints
+QFN21P40_300X300X90L40X20T170M
+Quad Flat No-Lead (QFN with Tab), 0.40 mm pitch; square, 5 pin X 5 pin, 3.00 mm L X 3.00 mm W X 0.90 mm H body
+
+0
+28
+21
+rt_pcbl_footprints
+QFN25P50_400X400X80L40X24T245
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 6 pin X 6 pin, 4.00 mm L X 4.00 mm W X 0.80 mm H body
+
+0
+32
+25
+rt_pcbl_footprints
+QFN25P50_400X400X100L40X24T210
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 6 pin X 6 pin, 4.00 mm L X 4.00 mm W X 1.00 mm H body
+
+0
+32
+25
+rt_pcbl_footprints
+QFN29_25P50_550X350X100L40X24T244X226M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; rect., 10 pin X 4 pin, 5.50 mm L X 3.50 mm W X 1.00 mm H body
+
+0
+29
+25
+rt_pcbl_footprints
+QFN33P50_500X500X100L40X24T270M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 8 pin X 8 pin, 5.00 mm L X 5.00 mm W X 1.00 mm H body
+
+0
+40
+33
+rt_pcbl_footprints
+QFN49P50_700X700X100L40X20T540M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 12 pin X 12 pin, 7.00 mm L X 7.00 mm W X 1.00 mm H body
+
+0
+56
+49
+rt_pcbl_footprints
+QFN65P50_900X900X90L40X20T480
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 16 pin X 16 pin, 9.00 mm L X 9.00 mm W X 0.90 mm H body
+
+0
+72
+65
+rt_pcbl_footprints
+QFN65P50_900X900X100L42X20T470M
+Quad Flat No-Lead (QFN with Tab), 0.50 mm pitch; square, 16 pin X 16 pin, 9.00 mm L X 9.00 mm W X 1.00 mm H body
+
+0
+72
+65
+rt_pcbl_footprints
+QFP32P80_900X900X120L60X37M
+Quad Flat Pack (QFP), 0.80 mm pitch; square, 8 pin X 8 pin, 7.00 mm L X 7.00 mm W X 1.20 mm H body
+
+0
+32
+32
+rt_pcbl_footprints
+QFP64P50_1200X1200X160L60X22
+Quad Flat Pack (QFP), 0.50 mm pitch; square, 16 pin X 16 pin, 10.00 mm L X 10.00 mm W X 1.60 mm H body
+
+0
+66
+66
+rt_pcbl_footprints
+QFP100P50_1600X1600X160L60X22M
+Quad Flat Pack (QFP), 0.50 mm pitch; square, 25 pin X 25 pin, 14.00 mm L X 14.00 mm W X 1.60 mm H body
+
+0
+102
+102
+rt_pcbl_footprints
+RAYTAC_MDBT42Q-192K
+Module; 41 pin, 16.00 mm L X 10.00 mm W X 2.20 mm H body
+
+0
+41
+41
+rt_pcbl_footprints
+RESC100X50X40L25M
+Resistor, Chip; 1.00 mm L X 0.50 mm W X 0.40 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+RESC160X80X55L25M
+Resistor, Chip; 1.60 mm L X 0.80 mm W X 0.55 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+RESC200X125X60L35M
+Resistor, Chip; 2.00 mm L X 1.25 mm W X 0.60 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+RESC200X375X70L40M
+Resistor, Chip; 2.00 mm L X 3.75 mm W X 0.70 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+RESC630X310X75L60
+Resistor, Chip; 6.30 mm L X 3.10 mm W X 0.75 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+RESC635X318X88L119M
+Resistor, Chip; 6.35 mm L X 3.18 mm W X 0.88 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+RESC895X318X76L61M
+Resistor, Chip; 8.95 mm L X 3.18 mm W X 0.76 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+RESCAV8P80_320X160X60L30X40
+Chip Array, 2 Side Concave, 0.80 mm pitch; 8 pin, 3.20 mm L X 1.60 mm W X 0.60 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+RESM1680X730X710L250X170
+Resistor, Molded Body; 13.50 mm L X 7.30 mm W X 7.10 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+RIGADO_BMD-300
+Module; 47 pin, 14.00 mm L X 9.80 mm W X 1.95 mm H body
+
+0
+47
+47
+rt_pcbl_footprints
+RIGADO_BMD-350
+Module; 47 pin, 8.65 mm L X 6.40 mm W X 1.40 mm H body
+
+0
+47
+47
+rt_pcbl_footprints
+SAMTEC_DW-10-07-G-S-200
+Header, Vertical, 2.54 mm pitch; 0.635 mm lead width, 10 pins, 1 row, 10 pins per row, 25.40 mm L X 2.54 mm W X 8.128 mm H body
+
+0
+10
+10
+rt_pcbl_footprints
+SAMTEC_FTSH-105-01-F-DV-K-P
+Header, Vertical Shrouded Plug; 10 pin, 6.35 mm L X 3.43 mm W X 6.40 mm H body
+
+0
+10
+10
+rt_pcbl_footprints
+SAMTEC_HTST-107-01-T-DV
+Connector, Vertical Plug; 14 pin, 25.40 mm L X 9.27 mm W X 9.53 mm H body
+
+0
+14
+14
+rt_pcbl_footprints
+SAMTEC_HTST-110-01-T-DV
+Header, Vertical Shrouded Plug; 20 pin, 33.02 mm L X 9.27 mm W X 10.41 mm H body
+
+0
+20
+20
+rt_pcbl_footprints
+SAMTEC_TSM-103-01-XXX-DV
+Header, Vertical Plug; 6 pin, 7.62 mm L X 5.08 mm W X 9.652 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+SAMTEC_TSW-105-07-T-S
+Header, Vertical, 2.54 mm pitch; 0.762 mm lead width, 5 pins, 1 row, 5 pins per row, 12.70 mm L X 2.54 mm W X 8.585 mm H body
+
+0
+5
+5
+rt_pcbl_footprints
+SEGGER_8_06_16
+Connector, Adapter; 6 pin, 9.271 mm L X 7.62 mm W X 29.232 mm H body
+
+0
+13
+13
+rt_pcbl_footprints
+SHDRRA4W100P508_4X1_2232X1200H860
+Header, Right Angle Shrouded, 5.08 mm pitch; 1.00 mm lead width, 4 pins, 1 row, 4 pins per row, 22.32 mm L X 12.00 mm W X 8.60 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+SITIME_CASE_2.0X1.6
+Oscillator; 4 pin, 2.00 mm L X 1.60 mm W X 0.80 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+SOD250X125X115L27X32
+Diode, Small Outline Diode (SOD); 1.70 mm L X 1.25 mm W X 1.15 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+SOD370X155X135L32X57
+Diode, Small Outline Diode (SOD); 2.70 mm L X 1.55 mm W X 1.35 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+SODFL350X160X90L45X90
+Diode, Small Outline Diode Flat Lead (SODFL); 2.60 mm L X 1.60 mm W X 0.90 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+SOIC4P254_408X609X215L55X38
+Small Outline IC (SOIC), 2.54 mm pitch; 4 pin, 4.089 mm L X 3.81 mm W X 2.159 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+SOIC4P510_832X1020X293L127X110
+Small Outline IC (SOIC), 5.10 mm pitch; 4 pin, 8.32 mm L X 6.35 mm W X 2.93 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+SOIC6P254_660X992X419L75X66M
+Small Outline IC (SOIC), 2.54 mm pitch; 6 pin, 6.60 mm L X 7.14 mm W X 4.19 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+SOIC8P127_490X600X175L83X41M
+Small Outline IC (SOIC), 1.27 mm pitch; 8 pin, 4.90 mm L X 3.90 mm W X 1.75 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+SOIC8P127_524X798X216L68X41M
+Small Outline IC (SOIC), 1.27 mm pitch; 8 pin, 5.24 mm L X 5.29 mm W X 2.16 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+SOIC8P127_528X790X216L65X42M
+Small Outline IC (SOIC), 1.27 mm pitch; 8 pin, 5.285 mm L X 5.285 mm W X 2.16 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+SOIC14P127_865X600X175L83X41M
+Small Outline IC (SOIC), 1.27 mm pitch; 14 pin, 8.65 mm L X 3.90 mm W X 1.75 mm H body
+
+0
+14
+14
+rt_pcbl_footprints
+SOIC16P127_990X600X175L83X41M
+Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 9.90 mm L X 3.90 mm W X 1.75 mm H body
+
+0
+16
+16
+rt_pcbl_footprints
+SOIC16P127_1030X1030X265L83X41
+Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 10.30 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+16
+16
+rt_pcbl_footprints
+SOIC16P127_1030X1030X265L83X41M
+Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 10.30 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+16
+16
+rt_pcbl_footprints
+SOIC20P127_1280X1032X265L83X41M
+Small Outline IC (SOIC), 1.27 mm pitch; 20 pin, 12.80 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+20
+20
+rt_pcbl_footprints
+SON7P65_200X200X80L25X30T170X110M
+Small Outline No-Lead (SON with Tab), 0.65 mm pitch; 6 pin, 2.00 mm L X 2.00 mm W X 0.80 mm H body
+
+0
+9
+7
+rt_pcbl_footprints
+SON7P95_300X300X100L40X34T236X162M
+Small Outline No-Lead (SON with Tab), 0.95 mm pitch; 6 pin, 3.00 mm L X 3.00 mm W X 1.00 mm H body
+
+0
+11
+7
+rt_pcbl_footprints
+SON9P50_200X200X90L35X25T120X60M
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 8 pin, 2.00 mm L X 2.00 mm W X 0.90 mm H body
+
+0
+9
+9
+rt_pcbl_footprints
+SON9P65_300X300X80L47X24T230X150M
+Small Outline No-Lead (SON with Tab), 0.65 mm pitch; 8 pin, 3.00 mm L X 3.00 mm W X 0.80 mm H body
+
+0
+13
+9
+rt_pcbl_footprints
+SON9P65_300X400X80L50X25T196X256
+Small Outline No-Lead (SON with Tab), 0.65 mm pitch; 8 pin, 3.00 mm L X 4.00 mm W X 0.80 mm H body
+
+0
+13
+9
+rt_pcbl_footprints
+SON9P127_500X600X90L60X40T210M
+Small Outline No-Lead (SON with Tab), 1.27 mm pitch; 8 pin, 5.00 mm L X 6.00 mm W X 0.90 mm H body
+
+0
+16
+9
+rt_pcbl_footprints
+SON11P50_300X200X80L30X25T240X84
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 10 pin, 3.00 mm L X 2.00 mm W X 0.80 mm H body
+
+0
+11
+11
+rt_pcbl_footprints
+SON11P50_300X300X80L45X25T200X120
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 10 pin, 3.00 mm L X 3.00 mm W X 0.80 mm H body
+
+0
+13
+11
+rt_pcbl_footprints
+SON13P40_250X135X60L27X20T180X40
+Small Outline No-Lead (SON with Tab), 0.40 mm pitch; 12 pin, 2.50 mm L X 1.35 mm W X 0.60 mm H body
+
+0
+13
+13
+rt_pcbl_footprints
+SOP6P65_200X210X110L20X20
+Small Outline Pkg (SOP), 0.65 mm pitch; 6 pin, 2.00 mm L X 1.25 mm W X 1.10 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+SOP8P65_300X495X110L55X31
+Small Outline Pkg (SOP), 0.65 mm pitch; 8 pin, 3.00 mm L X 3.00 mm W X 1.10 mm H body
+
+0
+8
+8
+rt_pcbl_footprints
+SOP10P50_300X490X110L55X22M
+Small Outline Pkg (SOP), 0.50 mm pitch; 10 pin, 3.00 mm L X 3.00 mm W X 1.10 mm H body
+
+0
+10
+10
+rt_pcbl_footprints
+SOP16P65_620X777X199L79X31M
+Small Outline Pkg (SOP), 0.65 mm pitch; 16 pin, 6.20 mm L X 5.29 mm W X 1.99 mm H body
+
+0
+16
+16
+rt_pcbl_footprints
+SOP21P65_650X640X120L60X24T650X340M
+Small Outline Pkg (SOP with Tab), 0.65 mm pitch; 20 pin, 6.50 mm L X 4.40 mm W X 1.20 mm H body
+
+0
+25
+21
+rt_pcbl_footprints
+SOT23-3P95_280X125L45X40
+Small Outline Transistor (SOT23), 0.95 mm pitch; 3 pin, 2.95 mm L X 1.60 mm W X 1.25 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+SOT23-3P95_280X145L47X40M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 3 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+SOT23-3P95_285X135L45X37
+Small Outline Transistor (SOT23), 0.95 mm pitch; 3 pin, 3.00 mm L X 1.525 mm W X 1.35 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+SOT23-3P96_240X105L25X40M
+Small Outline Transistor (SOT23), 0.96 mm pitch; 3 pin, 2.90 mm L X 1.30 mm W X 1.05 mm H body
+
+0
+3
+3
+rt_pcbl_footprints
+SOT23-5P65_210X110L36X22
+Small Outline Transistor (SOT23), 0.65 mm pitch; 5 pin, 2.00 mm L X 1.25 mm W X 1.10 mm H body
+
+0
+5
+5
+rt_pcbl_footprints
+SOT23-5P95_280X145L45X40M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 5 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+5
+5
+rt_pcbl_footprints
+SOT23-6P65_210X110L36X22M
+Small Outline Transistor (SOT23), 0.65 mm pitch; 6 pin, 2.00 mm L X 1.25 mm W X 1.10 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+SOT23-6P95_275X110L40X32M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 6 pin, 2.90 mm L X 1.50 mm W X 1.10 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+SOT23-6P95_280X145L42X40M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 6 pin, 2.90 mm L X 1.625 mm W X 1.45 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+SOT23-6P95_280X145L45X37M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 6 pin, 2.90 mm L X 1.60 mm W X 1.45 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+SOT23-6P95_280X145L45X42M
+Small Outline Transistor (SOT23), 0.95 mm pitch; 6 pin, 2.90 mm L X 1.625 mm W X 1.45 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+SOT143-4P190_230X110L30X43
+Small Outline Transistor (SOT143), 1.90 mm pitch; 4 pin, 2.90 mm L X 1.30 mm W X 1.10 mm H body
+
+0
+4
+4
+rt_pcbl_footprints
+SOT223-6P127_706X180L102X46
+Small Outline Transistor (SOT223), 1.27 mm pitch; 6 pin, 6.50 mm L X 3.50 mm W X 1.80 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+STEWART_SS-52100-001
+Connector, USB Receptacle Right Angle; 6 pin, 14.50 mm L X 14.00 mm W X 8.10 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+TAIYO_NRS6028
+Inductor, Fixed; 2 pin, 6.00 mm L X 6.00 mm W X 2.80 mm H body
+
+0
+2
+2
+rt_pcbl_footprints
+TI_DRB0008A
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 13 pin, 3.10 mm L X 3.10 mm W X 1.00 mm H body
+
+0
+13
+13
+rt_pcbl_footprints
+TI_DSG0008A
+Small Outline No-Lead (SON with Tab), 0.50 mm pitch; 9 pin, 2.10 mm L X 2.10 mm W X 0.80 mm H body
+
+0
+11
+9
+rt_pcbl_footprints
+TI_EUK_R-PDSS-T7
+Module; 7 pin, 37.97 mm L X 22.10 mm W X 9.00 mm H body
+
+0
+7
+7
+rt_pcbl_footprints
+TI_Q5A
+Quad Flat No-Lead (QFN with Tab); 8 pin, 6.10 mm L X 5.00 mm W X 1.10 mm H body
+
+0
+13
+9
+rt_pcbl_footprints
+TI_SIL0008E
+Small Outline No-Lead (SON); 10 pin, 3.50 mm L X 3.50 mm W X 1.75 mm H body
+
+0
+14
+10
+rt_pcbl_footprints
+TI_SIL0010A
+Module; 11 pin, 3.00 mm L X 3.00 mm W X 1.578 mm H body
+
+0
+14
+11
+rt_pcbl_footprints
+WURTH_614004190021
+Connector, USB Receptacle Right Angle; 6 pin, 14.50 mm L X 14.15 mm W X 7.37 mm H body
+
+0
+6
+6
+rt_pcbl_footprints
+XPPOWER_FS30-12
+Convertor, DC DC; 7 pin, 57.20 mm L X 28.50 mm W X 13.21 mm H body
+
+0
+7
+7
+rt_pcbl_footprints
+XTALDFN2_320X150X90L60X130
+Crystal, Dual Flat No-Lead (DFN 2 Pin); 2 pin, 3.20 mm L X 1.50 mm W X 0.90 mm H body
+
+0
+2
+2
