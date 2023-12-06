@@ -12,3 +12,7 @@
 
 Source/FlightCode-AmbaSatNetwork/ASN-FlightCode-02-STS21/.travis.yml
 Source/FlightCode-AmbaSatNetwork/ASN-FlightCode-07-CCS811B/.travis.yml
+Source/Examples/AmbaSat-Sensor-04-OPT3001/.vscode/extensions.json
+Source/FlightCode-AmbaSatNetwork/ASN-FlightCode-04-OPT3001/.travis.yml
+Source/Examples/AmbaSat-Sensor-04-OPT3001/.vscode/extensions.json
+Source/FlightCode-AmbaSatNetwork/ASN-FlightCode-04-OPT3001/.vscode/extensions.json
