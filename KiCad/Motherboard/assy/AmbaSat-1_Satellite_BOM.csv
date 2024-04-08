@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Manufacturer";"Part Number";
+">> AmbaSat ground station compatible module -->> 1";"U4";"RFM95";1;"RFM95W 915MHz Band Low Power Long Range Transceiver Module SMD";"HopeRF";"RFM95W-915S2";
+">> Amateur Radio 70cm band module -->> 1";"U4";"RFM95";1;"RFM96W 433MHz Band Low Power Long Range Transceiver Module SMD";"HopeRF";"RFM96W-433S2";
+2;"P1";"U.FL";1;"U.FL (UMCC) Receptacle Male Pin 50 Ohm SMD";"TE Connectivity";"2337019-1";
+3;"U2";"QFP32P80_900X900X120L60X37M";1;"ATMEGA328P-AU AVR 20MHz 32K Flash 8K RAM TQFP32";"Microchip";"ATMEGA328P-AU";
+4;"Y1";"RESONATOR-SMD-4.5X2.0";1;"4MHz 15pF Ceramic Resonator SMD";"Murata";"CSTCR4M00G53Z-R0";
+5;"D1";"LEDC200X125X85L40M";1;"LED Green 570nm 10mcd 0805";"VCC";"CMD17-21VGC/TR8";
+6;"U3";"SOT23-5P95_280X145L45X40M";1;"LP2985A 3.3V 150mA LDO Regulator SOT23-5";"TI";"LP2985AIM5-3.3";
+7;"U1";"PQFN24P43_300X350X102L35X23M";1;"LSM9DS1 9-DOF IMU LGA24";"STMicroelectronics";"LSM9DS1TR";
+8;"C1,C7,C9,C10,C11,C14,C3";"CAPC160X80X90L40M";7;"100nF 10% 50V Ceramic X7R 0603";"Yageo";"CC0603KRX7R9BB104";
+9;"C8,C12";"CAPC160X80X90L40M";2;"10nF 10% 50V Ceramic X7R 0603";"Yageo";"CC0603KRX7R9BB103";
+10;"R1,R3,R4";"RESC160X80X55L25M";3;"1K Ohm 1% 0.1W 0603";"Yageo";"RC0603FR-071KL";
+11;"R2,R5";"RESC160X80X55L25M";2;"10K Ohm 1% 0.1W 0603";"Yageo";"RC0603FR-0710KL";
+12;"C2,C4,C5,C6";"CAPC160X80X90L40M";4;"10uF 20% 16V Ceramic X5R 0603";"Murata";"GRM188R61C106MAALD";
